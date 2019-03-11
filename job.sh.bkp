@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#cd /home/tty025/teste/Projetos/scriptDesbloqueio/
+
+if [ "$1" == "" ]; then true & exit; fi
+
+req="$(echo "$(nice -n -15 python3.6 /home/tty025/teste/Projetos/scriptDesbloqueio/script.py "$1" 2>/dev/null)")";
+
+touch /home/tty025/teste/Projetos/scriptDesbloqueio/log.txt & chmod 0777 /home/tty025/teste/Projetos/scriptDesbloqueio/log.txt 2>&1>/dev/null
+echo "$req" >> /home/tty025/teste/Projetos/scriptDesbloqueio/log.txt
+
+true
+exit

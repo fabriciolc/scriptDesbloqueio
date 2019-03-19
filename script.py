@@ -29,7 +29,7 @@ def firstList():
                 print(str(datetime.datetime.now())+" Gerando lista de documentos em abertos da "+___diretorioSemList)
                 with open(___diretorioSemList+___arquivoListSeman,"w") as f:
                         c = csv.writer(f,delimiter =';',quotechar =',',quoting=csv.QUOTE_MINIMAL)
-                        c.writerow(str(datetime.datetime.now().strftime("%Y-%m-%d"))
+                        c.writerow([str(datetime.datetime.now().strftime("%Y-%m-%d"))])
                         c.writerow(["DCCLIENTE","CNOME","CGRUPO","GNOME","DCDOCUMENTO","DCDATAEMISSAO","DCDATAVENCIMENTO","DCVALOR","DCSEMANA","ATRASO"])
                         for DCCLIENTE,CNOME,CGRUPO,GNOME,DCDOCUMENTO,DCDATAEMISSAO,DCDATAVENCIMENTO,DCVALOR,DCSEMANA in result:
                                 if(((datetime.datetime.now()-DCDATAVENCIMENTO).days >= 3) and ((datetime.datetime.now()-DCDATAVENCIMENTO).days <= 30) and (DCVALOR > 0) ):
@@ -51,7 +51,7 @@ def consultPag():
                 print(str(datetime.datetime.now())+" Gerando consulta dos documentos do dia")
                 fl = open(___diretorioSem+___arquivoDesbloqueioSemana,"w")
                 c = csv.writer(fl, delimiter=';',quotechar=',',quoting=csv.QUOTE_MINIMAL)
-                c.writerow(str(datetime.datetime.now().strftime("%Y-%m-%d")))
+                c.writerow([str(datetime.datetime.now().strftime("%Y-%m-%d"))])
                 c.writerow(["DCCLIENTE","CNOME","CGRUPO","GNOME"])    
                 f =  open(___diretorioSem+___arquivoListSemanL)
                 reader = csv.reader(f, delimiter = ';', quotechar= ',',quoting=csv.QUOTE_MINIMAL)

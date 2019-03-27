@@ -29,8 +29,7 @@ def firstList():
                 print(str(datetime.datetime.now())+" Gerando lista de documentos em abertos da "+___diretorioSemList)
                 with open(___diretorioSemList+___arquivoListSeman,"w") as f:
                         c = csv.writer(f,delimiter =';',quotechar =',',quoting=csv.QUOTE_MINIMAL)
-                        c.writerow([str(datetime.datetime.now().strftime("%Y-%m-%d"))])
-                        c.writerow(["DCCLIENTE","CNOME","CGRUPO","GNOME","DCDOCUMENTO","DCDATAEMISSAO","DCDATAVENCIMENTO","DCVALOR","DCSEMANA","ATRASO"])
+                        c.writerow(["DCCLIENTE","CNOME","CGRUPO","GNOME","DCDOCUMENTO","DCDATAEMISSAO","DCDATAVENCIMENTO","DCVALOR","DCSEMANA","ATRASO",str(datetime.datetime.now().strftime("%Y-%m-%d"))])
                         for DCCLIENTE,CNOME,CGRUPO,GNOME,DCDOCUMENTO,DCDATAEMISSAO,DCDATAVENCIMENTO,DCVALOR,DCSEMANA in result:
                                 if(((datetime.datetime.now()-DCDATAVENCIMENTO).days >= 3) and ((datetime.datetime.now()-DCDATAVENCIMENTO).days <= 30) and (DCVALOR > 0) ):
                                         c.writerow((DCCLIENTE,CNOME.strip(' '),CGRUPO,GNOME.strip(' '),DCDOCUMENTO,DCDATAEMISSAO.strftime("%Y-%m-%d"),DCDATAVENCIMENTO.strftime("%Y-%m-%d"),DCVALOR,DCSEMANA,str((datetime.datetime.now()-DCDATAVENCIMENTO).days)+" Dias"))

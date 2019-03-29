@@ -27,7 +27,6 @@ def firstQuery():
 def is_number(s):
     try:
         float(s)
-        print("asd")
         if s == "":
             return False
         return True

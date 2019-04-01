@@ -74,7 +74,7 @@ def consultPag():
                         f.close()
                 print(str(datetime.datetime.now())+" Consulta Finalizada")
                 print(str(datetime.datetime.now())+" Enviando email da consulta")
-                #SendEmail.sendConsPag(___diretorioSem,___arquivoDesbloqueioSemana)
+                SendEmail.sendConsPag(___diretorioSem,___arquivoDesbloqueioSemana)
                 print(str(datetime.datetime.now())+" Email enviado")
 
 def sendFinal():

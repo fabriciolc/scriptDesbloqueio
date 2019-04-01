@@ -15,7 +15,7 @@ def sendemail(subj,bdy,diretorio,filename):
     receiver_email = con.__receiver_email
     server_smtp = con.__server_smtp
     port_smtp = con.__port_smtp
-    password = con.__password
+    password = con__password
 
     # Create a multipart message and set headers
     message = MIMEMultipart()

@@ -1,6 +1,6 @@
 import sys
 import cx_Oracle, datetime
-
+ 
 
 __user = "fabriciodb"
 __password = "fdc00003"

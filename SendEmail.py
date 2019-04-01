@@ -4,23 +4,18 @@ from email import encoders
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-
-__sender_email = "dados@inspiracao.adm.br"
-__receiver_email = "moura@inspiracao.adm.br"
-__server_smtp = "smtp.inspiracao.adm.br"
-__port_smtp = 587
-__password = "fdc00003"
+import con
 
 
 
 def sendemail(subj,bdy,diretorio,filename):
     subject = subj
     body = bdy
-    sender_email = __sender_email
-    receiver_email = __receiver_email
-    server_smtp = __server_smtp
-    port_smtp = __port_smtp
-    password = __password
+    sender_email = con.__sender_email
+    receiver_email = con.__receiver_email
+    server_smtp = con.__server_smtp
+    port_smtp = con.__port_smtp
+    password = con.__password
 
     # Create a multipart message and set headers
     message = MIMEMultipart()

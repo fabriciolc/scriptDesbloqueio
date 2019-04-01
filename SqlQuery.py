@@ -6,10 +6,10 @@ __user = "fabriciodb"
 __password = "fdc00003"
 __HostService = "192.168.10.46/DRACO"
 
-
 __duser="fabriciodb"
 __dpassword = "fdc00003"
 __dHostService = "192.168.10.46/DRACO"
+
 
 def firstQuery():
     sql = """select DOCCLIENTES.DCCLIENTE, CLIENTES.CNOME, CLIENTES.CGRUPO, GRUPOS.GNOME, DOCCLIENTES.DCDOCUMENTO, DOCCLIENTES.DCDATAEMISSAO, DOCCLIENTES.DCDATAVENCIMENTO,
@@ -65,8 +65,6 @@ def isPago(dcdocumento):
         connection.close()
     return False
 
-
-
 def desbloqueio(codigo):
     sql = """ update dradba.clientes set cbloqueadosn = 'N' where ccodigo = """+codigo
     connection = cx_Oracle.connect(__duser,__dpassword,__dHostService)
@@ -74,5 +72,3 @@ def desbloqueio(codigo):
     cursor.execute(sql)
     connection.commit()
     connection.close()
-
-

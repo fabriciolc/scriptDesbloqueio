@@ -21,7 +21,10 @@ def main(argv):
                 consultPag()
         elif (argv[1] == 'sendFinal'):
                 sendFinal()
-def firstList(): 
+        elif (argv[1] == 'desCodigo'):
+               desCodigo()
+
+def firstList():
         result = SqlQuery.firstQuery()
         if not os.path.exists(___diretorioSemList):
                 os.makedirs(___diretorioSemList)
@@ -77,4 +80,24 @@ def sendFinal():
         print(str(datetime.datetime.now())+" Enviando a lista final de documentos em aberto") 
         SendEmail.sendListFinal(___diretorioSem,___arquivoListSemanL) 
         print(str(datetime.datetime.now())+"Email enviado")
+
+def existCodigo(codigo):
+        csvList = open(___diretorioSem+___arquivoListSemanL,'r')
+        lista = csv.reader(csvList,delimiter = ';', quotechar = ',', quoting=csv.QUOTE_MINIMAL)
+        for row in lista:
+                if row[0] == codigo:
+                        csvList.close()
+                        return True
+        return False
+
+def desCodigo():
+      csvdesbl = open(___diretorioSem+___arquivoDesbloqueioSemana,'r')
+      desbl = csv.reader(csvdesbl,delimiter = ';', quotechar = ',', quoting=csv.QUOTE_MINIMAL)
+        for row in desbl:
+                if not existCodigo(row[0]):
+                        if SqlQuery.is_number(row[0]):
+                                print(datetime.datetime.now(),"Fazendo desbloqueio do codigo",row[0])
+                                result = SqlQuery.desbloqueio(row[0])
+
+
 main(sys.argv)

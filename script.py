@@ -71,9 +71,7 @@ def consultPag():
                         for row in listDocs:
                                 wr.writerow(row)
                         f.close()
-                with open(___diretorioSem+___arquivoListSemanL,'r') as f:
-                        desCodigo(f)
-                        f.close()
+                desCodigo()
                 print(str(datetime.datetime.now())+" Consulta Finalizada")
                 print(str(datetime.datetime.now())+" Enviando email da consulta")
                 SendEmail.sendConsPag(___diretorioSem,___arquivoDesbloqueioSemana)
@@ -109,10 +107,7 @@ def consultPagSabado():
                         for row in listDocs:
                                 wr.writerow(row)
                         f.close()
-
-                with open(___diretorioSemList+___arquivoListSeman,'r') as f:
-                        desCodigoSabado(f)
-                        f.close()
+                desCodigoSabado()
                 print(str(datetime.datetime.now())+" Consulta Finalizada")
                 print(str(datetime.datetime.now())+" Enviando email da consulta")
                 SendEmail.sendConsPag(___diretorioSemList,___arquivoDesbloqueioSemana)
@@ -130,8 +125,9 @@ def existCodigo(codigo):
                         csvList.close()
                         return True
         return False
-def desCodigo(file):
-        desbl = csv.reader(file,delimiter = ';', quotechar = ',', quoting=csv.QUOTE_MINIMAL)
+def desCodigo():
+        arq = open(___diretorioSem+___arquivoDesbloqueioSemana,"r")
+        desbl = csv.reader(arq,delimiter = ';', quotechar = ',', quoting=csv.QUOTE_MINIMAL)
         for row in desbl:
                 if not existCodigo(row[0]):
                         if SqlQuery.is_number(row[0]):
@@ -147,8 +143,9 @@ def existCodigoSabado(codigo):
                         return True
         return False
 
-def desCodigoSabado(file):
-        desbl = csv.reader(file,delimiter = ';', quotechar = ',', quoting=csv.QUOTE_MINIMAL)
+def desCodigoSabado():
+        arq = open(___diretorioSemList+___arquivoDesbloqueioSemana,'r')
+        desbl = csv.reader(arq,delimiter = ';', quotechar = ',', quoting=csv.QUOTE_MINIMAL)
         for row in desbl:
                 if not existCodigoSabado(row[0]):
                         if SqlQuery.is_number(row[0]):

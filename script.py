@@ -21,7 +21,7 @@ def main(argv):
                 consultPag()
         elif (argv[1] == 'sendFinal'):
                 sendFinal()
-        elif (argv[1] == 'consultPagSabado')
+        elif (argv[1] == 'consultPagSabado'):
                 consultPagSabado()
 def firstList(): 
         result = SqlQuery.firstQuery()

@@ -21,9 +21,8 @@ def main(argv):
                 consultPag()
         elif (argv[1] == 'sendFinal'):
                 sendFinal()
-        elif (argv[1] == 'desCodigo'):
-                desCodigo()
-
+        elif (argv[1] == 'consultPagSabado')
+                consultPagSabado()
 def firstList(): 
         result = SqlQuery.firstQuery()
         if not os.path.exists(___diretorioSemList):
@@ -72,9 +71,51 @@ def consultPag():
                         for row in listDocs:
                                 wr.writerow(row)
                         f.close()
+                with open(___diretorioSem+___arquivoListSemanL,'r') as f:
+                        desCodigo(f)
+                        f.close()
                 print(str(datetime.datetime.now())+" Consulta Finalizada")
                 print(str(datetime.datetime.now())+" Enviando email da consulta")
                 SendEmail.sendConsPag(___diretorioSem,___arquivoDesbloqueioSemana)
+                print(str(datetime.datetime.now())+" Email enviado")
+
+def consultPagSabado():
+        if not os.path.exists(___diretorioSemList):
+                print(str(datetime.datetime.now())+" O direitorio da semana nem existe, "+___diretorioSem+" rodar metodo firstList")
+        elif os.path.isfile(___diretorioSemList+___arquivoDesbloqueioSemana):
+                print(str(datetime.datetime.now())+" Arquivo de DesbloqueioSemana"+str(datetime.datetime.now().strftime("%Y-%m-%d"))+".csv ja foi gerado.")
+        elif not os.path.isfile(___diretorioSemList+___arquivoListSeman):
+                print(str(datetime.datetime.now())+" Arquivo de Lista da Semana/Dia, nao gerado ou nao encontrado!  "+___diretorioSemList+___arquivoListSeman)
+        else:
+                print(str(datetime.datetime.now())+" Gerando consulta dos documentos do dia")
+                fl = open(___diretorioSemList+___arquivoDesbloqueioSemana,"w")
+                c = csv.writer(fl, delimiter=';',quotechar=',',quoting=csv.QUOTE_MINIMAL)
+                c.writerow([str(datetime.datetime.now().strftime("%Y-%m-%d"))])
+                c.writerow(["CCLIENTE","CNOME","CGRUPO","GNOME"])    
+                f =  open(___diretorioSemList+___arquivoListSeman)
+                reader = csv.reader(f, delimiter = ';', quotechar= ',',quoting=csv.QUOTE_MINIMAL)
+                listDocs = list(reader)
+                f.close()
+                f =  open(___diretorioSemList+___arquivoListSeman)
+                reader2 = csv.reader(f, delimiter = ';', quotechar= ',',quoting=csv.QUOTE_MINIMAL)
+                for idx,value in enumerate(reader2):
+                        if SqlQuery.isPago(value[4]):
+                                c.writerow((value[0],value[1],value[2],value[3]))
+                                listDocs.remove(value)
+                fl.close()
+                f.close()
+                with open(___diretorioSemList+___arquivoListSeman,'w') as f:
+                        wr = csv.writer(f, delimiter = ';', quotechar = ',', quoting=csv.QUOTE_MINIMAL)
+                        for row in listDocs:
+                                wr.writerow(row)
+                        f.close()
+
+                with open(___diretorioSemList+___arquivoListSeman,'r') as f:
+                        desCodigoSabado(f)
+                        f.close()
+                print(str(datetime.datetime.now())+" Consulta Finalizada")
+                print(str(datetime.datetime.now())+" Enviando email da consulta")
+                SendEmail.sendConsPag(___diretorioSemList,___arquivoDesbloqueioSemana)
                 print(str(datetime.datetime.now())+" Email enviado")
 
 def sendFinal():
@@ -89,17 +130,32 @@ def existCodigo(codigo):
                         csvList.close()
                         return True
         return False
-
-def desCodigo():
-        csvdesbl = open(___diretorioSem+___arquivoDesbloqueioSemana,'r')
-        desbl = csv.reader(csvdesbl,delimiter = ';', quotechar = ',', quoting=csv.QUOTE_MINIMAL)
+def desCodigo(file):
+        desbl = csv.reader(file,delimiter = ';', quotechar = ',', quoting=csv.QUOTE_MINIMAL)
         for row in desbl:
                 if not existCodigo(row[0]):
                         if SqlQuery.is_number(row[0]):
                                 print(datetime.datetime.now(),"Fazendo desbloqueio do codigo",row[0])
                                 result = SqlQuery.desbloqueio(row[0])
                                 print(result)
-        csvdesbl.close()
+def existCodigoSabado(codigo):
+        csvList = open(___diretorioSemList+___arquivoListSeman,'r')
+        lista = csv.reader(csvList,delimiter = ';', quotechar = ',', quoting=csv.QUOTE_MINIMAL)
+        for row in lista:
+                if row[0] == codigo:
+                        csvList.close()
+                        return True
+        return False
+
+def desCodigoSabado(file):
+        desbl = csv.reader(file,delimiter = ';', quotechar = ',', quoting=csv.QUOTE_MINIMAL)
+        for row in desbl:
+                if not existCodigoSabado(row[0]):
+                        if SqlQuery.is_number(row[0]):
+                                print(datetime.datetime.now(),"Fazendo desbloqueio do codigo",row[0])
+                                result = SqlQuery.desbloqueio(row[0])
+                                print(result)
+                
                 
 
 main(sys.argv)

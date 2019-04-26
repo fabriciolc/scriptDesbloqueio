@@ -9061,3 +9061,1409 @@ None
 2019-04-19 10:00:01.659461 Gerando consulta dos documentos do dia
 2019-04-19 10:15:01.674223 Enviando a lista final de documentos em aberto
 2019-04-19 10:15:02.230133Email enviado
+2019-04-20 10:00:01.927007 O direitorio da semana nem existe, semana-201916/ rodar metodo firstList
+2019-04-22 10:00:02.081209 O direitorio da semana nem existe, semana-201917/ rodar metodo firstList
+2019-04-22 16:16:07.702908 Gerando lista de documentos em abertos da semana-201918/
+2019-04-22 16:16:21.795265 A Lista da semana-201918/ ja existe!
+2019-04-22 16:16:24.509625 A Lista da semana-201918/ ja existe!
+2019-04-22 16:16:31.079857 A Lista da semana-201918/ ja existe!
+2019-04-23 10:00:01.651531 Arquivo de Lista da Semana/Dia, nao gerado ou nao encontrado!  semana-201917/ListSemana18.csv
+2019-04-24 10:00:01.210929 Arquivo de Lista da Semana/Dia, nao gerado ou nao encontrado!  semana-201917/ListSemana18.csv
+2019-04-25 08:49:58.047642 Gerando consulta dos documentos do dia
+2019-04-25 08:49:58.402885 Retorno metodo isPago:True, documento:379681  2019-04-23 00:00:00
+2019-04-25 08:49:58.728176 Retorno metodo isPago:True, documento:379680  2019-04-23 00:00:00
+2019-04-25 08:49:59.070655 Retorno metodo isPago:True, documento:379945  2019-04-23 00:00:00
+2019-04-25 08:49:59.401746 Retorno metodo isPago:True, documento:380109  2019-04-22 00:00:00
+2019-04-25 08:49:59.732681 Retorno metodo isPago:False, documento:379406  None
+2019-04-25 08:50:00.040396 Retorno metodo isPago:False, documento:379648  None
+2019-04-25 08:50:00.337994 Retorno metodo isPago:True, documento:378729  2019-04-22 00:00:00
+2019-04-25 08:50:00.642728 Retorno metodo isPago:False, documento:380139  None
+2019-04-25 08:50:00.967158 Retorno metodo isPago:False, documento:379264  None
+2019-04-25 08:50:01.300184 Retorno metodo isPago:True, documento:379811  2019-04-22 00:00:00
+2019-04-25 08:50:01.647835 Retorno metodo isPago:False, documento:379683  None
+2019-04-25 08:50:01.961122 Retorno metodo isPago:False, documento:379682  None
+2019-04-25 08:50:02.282192 Retorno metodo isPago:True, documento:379778  2019-04-22 00:00:00
+2019-04-25 08:50:02.613710 Retorno metodo isPago:False, documento:380060  None
+2019-04-25 08:50:02.934262 Retorno metodo isPago:True, documento:379744  2019-04-22 00:00:00
+2019-04-25 08:50:03.265143 Retorno metodo isPago:False, documento:380132  None
+2019-04-25 08:50:03.585365 Retorno metodo isPago:False, documento:378590  None
+2019-04-25 08:50:03.936284 Retorno metodo isPago:False, documento:380018  None
+2019-04-25 08:50:04.306288 Retorno metodo isPago:False, documento:379605  None
+2019-04-25 08:50:04.680666 Retorno metodo isPago:False, documento:379606  None
+2019-04-25 08:50:04.980983 Retorno metodo isPago:True, documento:378980  2019-04-22 00:00:00
+2019-04-25 08:50:05.298414 Retorno metodo isPago:False, documento:378578  None
+2019-04-25 08:50:05.632931 Retorno metodo isPago:False, documento:380056  None
+2019-04-25 08:50:05.940908 Retorno metodo isPago:False, documento:378558  None
+2019-04-25 08:50:06.236840 Retorno metodo isPago:True, documento:379447  2019-04-22 00:00:00
+2019-04-25 08:50:06.532345 Retorno metodo isPago:True, documento:379141  2019-04-22 00:00:00
+2019-04-25 08:50:06.871977 Retorno metodo isPago:True, documento:379998  2019-04-22 00:00:00
+2019-04-25 08:50:07.197149 Retorno metodo isPago:True, documento:379288  2019-04-23 00:00:00
+2019-04-25 08:50:07.514107 Retorno metodo isPago:False, documento:380047  None
+2019-04-25 08:50:07.830619 Retorno metodo isPago:True, documento:378566  2019-04-23 00:00:00
+2019-04-25 08:50:08.169360 Retorno metodo isPago:True, documento:380009  2019-04-22 00:00:00
+2019-04-25 08:50:08.503293 Retorno metodo isPago:True, documento:380008  2019-04-22 00:00:00
+2019-04-25 08:50:08.820846 Retorno metodo isPago:False, documento:380113  None
+2019-04-25 08:50:09.126073 Retorno metodo isPago:False, documento:380112  None
+2019-04-25 08:50:09.440662 Retorno metodo isPago:True, documento:379126  2019-04-23 00:00:00
+2019-04-25 08:50:09.763263 Retorno metodo isPago:False, documento:380077  None
+2019-04-25 08:50:10.072603 Retorno metodo isPago:True, documento:379229  2019-04-22 00:00:00
+2019-04-25 08:50:10.394445 Retorno metodo isPago:True, documento:378815  2019-04-22 00:00:00
+2019-04-25 08:50:10.701917 Retorno metodo isPago:False, documento:379550  None
+2019-04-25 08:50:11.019693 Retorno metodo isPago:False, documento:379988  None
+2019-04-25 08:50:11.329564 Retorno metodo isPago:False, documento:379131  None
+2019-04-25 08:50:11.648401 Retorno metodo isPago:False, documento:379907  None
+2019-04-25 08:50:11.957493 Retorno metodo isPago:True, documento:379120  2019-04-22 00:00:00
+2019-04-25 08:50:12.262864 Retorno metodo isPago:True, documento:380073  2019-04-22 00:00:00
+2019-04-25 08:50:12.581288 Retorno metodo isPago:False, documento:379222  None
+2019-04-25 08:50:12.897667 Retorno metodo isPago:True, documento:378524  2019-04-22 00:00:00
+2019-04-25 08:50:13.215374 Retorno metodo isPago:False, documento:379815  None
+2019-04-25 08:50:13.536770 Retorno metodo isPago:False, documento:379906  None
+2019-04-25 08:50:13.855243 Retorno metodo isPago:False, documento:379978  None
+2019-04-25 08:50:14.193681 Retorno metodo isPago:True, documento:379975  2019-04-23 00:00:00
+2019-04-25 08:50:14.502481 Retorno metodo isPago:False, documento:380076  None
+2019-04-25 08:50:14.810210 Retorno metodo isPago:False, documento:380075  None
+2019-04-25 08:50:15.127238 Retorno metodo isPago:True, documento:378819  2019-04-22 00:00:00
+2019-04-25 08:50:15.445207 Retorno metodo isPago:True, documento:379694  2019-04-23 00:00:00
+2019-04-25 08:50:15.755381 Retorno metodo isPago:True, documento:379100  2019-04-22 00:00:00
+2019-04-25 08:50:16.065497 Retorno metodo isPago:True, documento:379101  2019-04-22 00:00:00
+2019-04-25 08:50:16.382823 Retorno metodo isPago:False, documento:379951  None
+2019-04-25 08:50:16.701962 Retorno metodo isPago:False, documento:379592  None
+2019-04-25 08:50:17.019376 Retorno metodo isPago:False, documento:380111  None
+2019-04-25 08:50:17.333246 Retorno metodo isPago:True, documento:380124  2019-04-23 00:00:00
+2019-04-25 08:50:17.643925 Retorno metodo isPago:False, documento:379411  None
+2019-04-25 08:50:17.957108 Retorno metodo isPago:True, documento:380081  2019-04-23 00:00:00
+2019-04-25 08:50:18.265311 Retorno metodo isPago:False, documento:380084  None
+2019-04-25 08:50:18.577091 Retorno metodo isPago:True, documento:380050  2019-04-23 00:00:00
+2019-04-25 08:50:18.885497 Retorno metodo isPago:True, documento:379393  2019-04-22 00:00:00
+2019-04-25 08:50:19.198777 Retorno metodo isPago:True, documento:379017  2019-04-22 00:00:00
+2019-04-25 08:50:19.520627 Retorno metodo isPago:True, documento:378647  2019-04-22 00:00:00
+2019-04-25 08:50:19.831337 Retorno metodo isPago:True, documento:379487  2019-04-22 00:00:00
+2019-04-25 08:50:20.149122 Retorno metodo isPago:False, documento:380156  None
+2019-04-25 08:50:20.466550 Retorno metodo isPago:False, documento:379039  None
+2019-04-25 08:50:20.782930 Retorno metodo isPago:False, documento:378662  None
+2019-04-25 08:50:21.092940 Retorno metodo isPago:False, documento:378654  None
+2019-04-25 08:50:21.409802 Retorno metodo isPago:True, documento:378635  2019-04-22 00:00:00
+2019-04-25 08:50:21.723345 Retorno metodo isPago:False, documento:379843  None
+2019-04-25 08:50:22.034642 Retorno metodo isPago:True, documento:379018  2019-04-22 00:00:00
+2019-04-25 08:50:22.341489 Retorno metodo isPago:False, documento:379847  None
+2019-04-25 08:50:22.662788 Retorno metodo isPago:False, documento:379477  None
+2019-04-25 08:50:22.980367 Retorno metodo isPago:True, documento:378642  2019-04-23 00:00:00
+2019-04-25 08:50:23.288834 Retorno metodo isPago:True, documento:378621  2019-04-22 00:00:00
+2019-04-25 08:50:23.595631 Retorno metodo isPago:True, documento:379174  2019-04-22 00:00:00
+2019-04-25 08:50:23.918213 Retorno metodo isPago:False, documento:380034  None
+2019-04-25 08:50:24.235890 Retorno metodo isPago:True, documento:379011  2019-04-22 00:00:00
+2019-04-25 08:50:24.547289 Retorno metodo isPago:False, documento:379753  None
+2019-04-25 08:50:24.865284 Retorno metodo isPago:False, documento:378631  None
+2019-04-25 08:50:25.183133 Retorno metodo isPago:True, documento:379333  2019-04-22 00:00:00
+2019-04-25 08:50:25.495377 Retorno metodo isPago:True, documento:379562  2019-04-22 00:00:00
+2019-04-25 08:50:25.807822 Retorno metodo isPago:True, documento:379014  2019-04-22 00:00:00
+2019-04-25 08:50:26.127964 Retorno metodo isPago:True, documento:379013  2019-04-22 00:00:00
+2019-04-25 08:50:26.435961 Retorno metodo isPago:False, documento:380149  None
+2019-04-25 08:50:26.745333 Retorno metodo isPago:True, documento:380033  2019-04-23 00:00:00
+2019-04-25 08:50:27.062477 Retorno metodo isPago:False, documento:380028  None
+2019-04-25 08:50:27.367205 Retorno metodo isPago:False, documento:380031  None
+2019-04-25 08:50:27.692102 Retorno metodo isPago:False, documento:380115  None
+2019-04-25 08:50:27.986512 Retorno metodo isPago:False, documento:379006  None
+2019-04-25 08:50:28.319156 Retorno metodo isPago:False, documento:378602  None
+2019-04-25 08:50:28.637243 Retorno metodo isPago:True, documento:379002  2019-04-22 00:00:00
+2019-04-25 08:50:28.947956 Retorno metodo isPago:False, documento:379705  None
+2019-04-25 08:50:29.254392 Retorno metodo isPago:False, documento:379839  None
+2019-04-25 08:50:29.564800 Retorno metodo isPago:False, documento:379612  None
+2019-04-25 08:50:29.888231 Retorno metodo isPago:True, documento:379240  2019-04-22 00:00:00
+2019-04-25 08:50:30.209919 Retorno metodo isPago:False, documento:380026  None
+2019-04-25 08:50:30.527572 Retorno metodo isPago:False, documento:379611  None
+2019-04-25 08:50:30.837924 Retorno metodo isPago:True, documento:378601  2019-04-22 00:00:00
+2019-04-25 08:50:31.160222 Retorno metodo isPago:False, documento:379750  None
+2019-04-25 08:50:31.457145 Retorno metodo isPago:False, documento:378993  None
+2019-04-25 08:50:31.772930 Retorno metodo isPago:True, documento:378620  2019-04-22 00:00:00
+2019-04-25 08:50:32.097664 Retorno metodo isPago:True, documento:380148  2019-04-22 00:00:00
+2019-04-25 08:50:32.406973 Retorno metodo isPago:True, documento:379009  2019-04-23 00:00:00
+2019-04-25 08:50:32.725207 Retorno metodo isPago:False, documento:379613  None
+2019-04-25 08:50:33.032014 Retorno metodo isPago:False, documento:378854  None
+2019-04-25 08:50:33.367148 Retorno metodo isPago:False, documento:378978  None
+2019-04-25 08:50:33.676228 Retorno metodo isPago:True, documento:379785  2019-04-22 00:00:00
+2019-04-25 08:50:33.995117 Retorno metodo isPago:False, documento:379302  None
+2019-04-25 08:50:34.311918 Retorno metodo isPago:False, documento:379826  None
+2019-04-25 08:50:34.610973 Retorno metodo isPago:True, documento:378583  2019-04-22 00:00:00
+2019-04-25 08:50:34.920712 Retorno metodo isPago:False, documento:380019  None
+2019-04-25 08:50:35.231757 Retorno metodo isPago:False, documento:379239  None
+2019-04-25 08:50:35.538538 Retorno metodo isPago:False, documento:380040  None
+2019-04-25 08:50:35.852328 Retorno metodo isPago:False, documento:379423  None
+2019-04-25 08:50:36.160903 Retorno metodo isPago:False, documento:379817  None
+2019-04-25 08:50:36.474406 Retorno metodo isPago:True, documento:379428  2019-04-22 00:00:00
+2019-04-25 08:50:36.782066 Retorno metodo isPago:True, documento:378576  2019-04-22 00:00:00
+2019-04-25 08:50:37.100568 Retorno metodo isPago:True, documento:379342  2019-04-22 00:00:00
+2019-04-25 08:50:37.417321 Retorno metodo isPago:False, documento:379836  None
+2019-04-25 08:50:37.727238 Retorno metodo isPago:False, documento:378763  None
+2019-04-25 08:50:38.034791 Retorno metodo isPago:False, documento:380061  None
+2019-04-25 08:50:38.350458 Retorno metodo isPago:False, documento:380119  None
+2019-04-25 08:50:38.661552 Retorno metodo isPago:True, documento:379235  2019-04-22 00:00:00
+2019-04-25 08:50:38.965622 Retorno metodo isPago:False, documento:378767  None
+2019-04-25 08:50:39.276884 Retorno metodo isPago:True, documento:378960  2019-04-22 00:00:00
+2019-04-25 08:50:39.584702 Retorno metodo isPago:False, documento:379443  None
+2019-04-25 08:50:39.938530 Retorno metodo isPago:False, documento:380072  None
+2019-04-25 08:50:40.264388 Retorno metodo isPago:False, documento:379446  None
+2019-04-25 08:50:40.581946 Retorno metodo isPago:True, documento:378962  2019-04-22 00:00:00
+2019-04-25 08:50:40.889443 Retorno metodo isPago:False, documento:379417  None
+2019-04-25 08:50:41.200061 Retorno metodo isPago:False, documento:379649  None
+2019-04-25 08:50:41.508000 Retorno metodo isPago:False, documento:379505  None
+2019-04-25 08:50:41.825436 Retorno metodo isPago:False, documento:379044  None
+2019-04-25 08:50:42.143026 Retorno metodo isPago:True, documento:380159  2019-04-22 00:00:00
+2019-04-25 08:50:42.451797 Retorno metodo isPago:False, documento:378883  None
+2019-04-25 08:50:42.758020 Retorno metodo isPago:True, documento:379248  2019-04-22 00:00:00
+2019-04-25 08:50:43.089045 Retorno metodo isPago:True, documento:379048  2019-04-22 00:00:00
+2019-04-25 08:50:43.412576 Retorno metodo isPago:False, documento:379185  None
+2019-04-25 08:50:43.729967 Retorno metodo isPago:False, documento:379623  None
+2019-04-25 08:50:44.046637 Retorno metodo isPago:False, documento:378666  None
+2019-04-25 08:50:44.362985 Retorno metodo isPago:True, documento:379856  2019-04-22 00:00:00
+2019-04-25 08:50:44.734973 Retorno metodo isPago:True, documento:380104  2019-04-22 00:00:00
+2019-04-25 08:50:45.050558 Retorno metodo isPago:True, documento:378942  2019-04-23 00:00:00
+2019-04-25 08:50:45.367666 Retorno metodo isPago:False, documento:379181  None
+2019-04-25 08:50:45.675746 Retorno metodo isPago:False, documento:379759  None
+2019-04-25 08:50:45.993416 Retorno metodo isPago:False, documento:378675  None
+2019-04-25 08:50:46.318142 Retorno metodo isPago:True, documento:378672  2019-04-22 00:00:00
+2019-04-25 08:50:46.638254 Retorno metodo isPago:True, documento:379186  2019-04-22 00:00:00
+2019-04-25 08:50:46.947938 Retorno metodo isPago:True, documento:378678  2019-04-22 00:00:00
+2019-04-25 08:50:47.269143 Retorno metodo isPago:False, documento:378668  None
+2019-04-25 08:50:47.583187 Retorno metodo isPago:False, documento:379669  None
+2019-04-25 08:50:47.893325 Retorno metodo isPago:True, documento:379794  2019-04-22 00:00:00
+2019-04-25 08:50:48.208392 Retorno metodo isPago:True, documento:379357  2019-04-22 00:00:00
+2019-04-25 08:50:48.516142 Retorno metodo isPago:False, documento:379926  None
+2019-04-25 08:50:48.836648 Retorno metodo isPago:False, documento:379492  None
+2019-04-25 08:50:49.143674 Retorno metodo isPago:False, documento:379851  None
+2019-04-25 08:50:49.453424 Retorno metodo isPago:False, documento:379493  None
+2019-04-25 08:50:49.780802 Retorno metodo isPago:False, documento:379717  None
+2019-04-25 08:50:50.096752 Retorno metodo isPago:True, documento:378870  2019-04-22 00:00:00
+2019-04-25 08:50:50.406316 Retorno metodo isPago:False, documento:379034  None
+2019-04-25 08:50:50.720634 Retorno metodo isPago:False, documento:379491  None
+2019-04-25 08:50:51.028800 Retorno metodo isPago:True, documento:378868  2019-04-22 00:00:00
+2019-04-25 08:50:51.337978 Retorno metodo isPago:True, documento:379348  2019-04-22 00:00:00
+2019-04-25 08:50:51.655112 Retorno metodo isPago:False, documento:379667  None
+2019-04-25 08:50:51.965060 Retorno metodo isPago:False, documento:379024  None
+2019-04-25 08:50:52.274705 Retorno metodo isPago:True, documento:379177  2019-04-22 00:00:00
+2019-04-25 08:50:52.593442 Retorno metodo isPago:True, documento:379737  2019-04-22 00:00:00
+2019-04-25 08:50:52.915713 Retorno metodo isPago:False, documento:379803  None
+2019-04-25 08:50:53.233055 Retorno metodo isPago:True, documento:380162  2019-04-22 00:00:00
+2019-04-25 08:50:53.539918 Retorno metodo isPago:True, documento:379526  2019-04-22 00:00:00
+2019-04-25 08:50:53.857880 Retorno metodo isPago:False, documento:378130  None
+2019-04-25 08:50:54.174582 Retorno metodo isPago:True, documento:378704  2019-04-23 00:00:00
+2019-04-25 08:50:54.481548 Retorno metodo isPago:True, documento:379724  2019-04-22 00:00:00
+2019-04-25 08:50:54.789475 Retorno metodo isPago:False, documento:380161  None
+2019-04-25 08:50:55.119708 Retorno metodo isPago:False, documento:379531  None
+2019-04-25 08:50:55.427807 Retorno metodo isPago:False, documento:379765  None
+2019-04-25 08:50:55.747729 Retorno metodo isPago:True, documento:378703  2019-04-22 00:00:00
+2019-04-25 08:50:56.065437 Retorno metodo isPago:False, documento:378699  None
+2019-04-25 08:50:56.372832 Retorno metodo isPago:False, documento:378698  None
+2019-04-25 08:50:56.689878 Retorno metodo isPago:False, documento:378900  None
+2019-04-25 08:50:56.998220 Retorno metodo isPago:True, documento:379061  2019-04-23 00:00:00
+2019-04-25 08:50:57.318444 Retorno metodo isPago:True, documento:379060  2019-04-23 00:00:00
+2019-04-25 08:50:57.636445 Retorno metodo isPago:False, documento:378690  None
+2019-04-25 08:50:57.953552 Retorno metodo isPago:True, documento:379587  2019-04-22 00:00:00
+2019-04-25 08:50:58.263872 Retorno metodo isPago:False, documento:379258  None
+2019-04-25 08:50:58.570771 Retorno metodo isPago:True, documento:379806  2019-04-22 00:00:00
+2019-04-25 08:50:58.879719 Retorno metodo isPago:True, documento:379677  2019-04-22 00:00:00
+2019-04-25 08:50:59.172658 Retorno metodo isPago:False, documento:379079  None
+2019-04-25 08:50:59.486222 Retorno metodo isPago:True, documento:379735  2019-04-22 00:00:00
+2019-04-25 08:50:59.821265 Retorno metodo isPago:False, documento:379065  None
+2019-04-25 08:51:00.130260 Retorno metodo isPago:True, documento:379776  2019-04-22 00:00:00
+2019-04-25 08:51:00.447519 Retorno metodo isPago:False, documento:379871  None
+2019-04-25 08:51:00.764650 Retorno metodo isPago:True, documento:378509  2019-04-22 00:00:00
+2019-04-25 08:51:01.084724 Retorno metodo isPago:False, documento:379509  None
+2019-04-25 08:51:01.393468 Retorno metodo isPago:False, documento:380055  None
+2019-04-25 08:51:01.711223 Retorno metodo isPago:False, documento:380128  None
+2019-04-25 08:51:02.020085 Retorno metodo isPago:False, documento:379625  None
+2019-04-25 08:51:02.337368 Retorno metodo isPago:False, documento:378890  None
+2019-04-25 08:51:02.661108 Retorno metodo isPago:False, documento:379734  None
+2019-04-25 08:51:02.980636 Retorno metodo isPago:True, documento:379076  2019-04-22 00:00:00
+2019-04-25 08:51:03.295412 Retorno metodo isPago:False, documento:379633  None
+2019-04-25 08:51:03.604909 Retorno metodo isPago:False, documento:379721  None
+2019-04-25 08:51:03.913918 Retorno metodo isPago:False, documento:378885  None
+2019-04-25 08:51:04.226817 Retorno metodo isPago:False, documento:379849  None
+2019-04-25 08:51:04.521565 Retorno metodo isPago:True, documento:379670  2019-04-22 00:00:00
+2019-04-25 08:51:04.830385 Retorno metodo isPago:True, documento:379762  2019-04-22 00:00:00
+2019-04-25 08:51:05.162019 Retorno metodo isPago:False, documento:380063  None
+2019-04-25 08:51:05.493701 Retorno metodo isPago:False, documento:378982  None
+2019-04-25 08:51:05.805076 Retorno metodo isPago:True, documento:379866  2019-04-23 00:00:00
+2019-04-25 08:51:06.122430 Retorno metodo isPago:False, documento:379761  None
+2019-04-25 08:51:06.449220 Retorno metodo isPago:False, documento:379909  None
+2019-04-25 08:51:06.761099 Retorno metodo isPago:False, documento:379864  None
+2019-04-25 08:51:07.087293 Retorno metodo isPago:False, documento:379485  None
+2019-04-25 08:51:07.409300 Retorno metodo isPago:False, documento:379885  None
+2019-04-25 08:51:07.711195 Retorno metodo isPago:True, documento:378919  2015-12-30 00:00:00
+2019-04-25 08:51:07.711241 Retorno metodo isPago:False, documento:378919  None
+2019-04-25 08:51:08.011230 Retorno metodo isPago:True, documento:378917  2019-04-22 00:00:00
+2019-04-25 08:51:08.320898 Retorno metodo isPago:False, documento:379927  None
+2019-04-25 08:51:08.628749 Retorno metodo isPago:False, documento:379889  None
+2019-04-25 08:51:08.942840 Retorno metodo isPago:True, documento:380172  2019-04-22 00:00:00
+2019-04-25 08:51:09.251538 Retorno metodo isPago:False, documento:379639  None
+2019-04-25 08:51:09.566730 Retorno metodo isPago:False, documento:379886  None
+2019-04-25 08:51:09.877066 Retorno metodo isPago:True, documento:379303  2019-04-22 00:00:00
+2019-04-25 08:51:10.170239 Retorno metodo isPago:True, documento:379741  2019-04-22 00:00:00
+2019-04-25 08:51:10.481809 Retorno metodo isPago:True, documento:379743  2019-04-23 00:00:00
+2019-04-25 08:51:10.805033 Retorno metodo isPago:False, documento:378344  None
+2019-04-25 08:51:11.123146 Retorno metodo isPago:False, documento:379213  None
+2019-04-25 08:51:11.434545 Retorno metodo isPago:False, documento:379388  None
+2019-04-25 08:51:11.751109 Retorno metodo isPago:False, documento:379887  None
+2019-04-25 08:51:12.061229 Retorno metodo isPago:False, documento:378350  None
+2019-04-25 08:51:12.370214 Retorno metodo isPago:False, documento:379538  None
+2019-04-25 08:51:12.693137 Retorno metodo isPago:False, documento:379913  None
+2019-04-25 08:51:13.002015 Retorno metodo isPago:True, documento:379390  2019-04-22 00:00:00
+2019-04-25 08:51:13.309884 Retorno metodo isPago:False, documento:379914  None
+2019-04-25 08:51:13.630244 Retorno metodo isPago:False, documento:379088  None
+2019-04-25 08:51:13.948627 Retorno metodo isPago:False, documento:379087  None
+2019-04-25 08:51:14.260484 Retorno metodo isPago:False, documento:379918  None
+2019-04-25 08:51:14.579771 Retorno metodo isPago:False, documento:378726  None
+2019-04-25 08:51:14.891732 Retorno metodo isPago:False, documento:379920  None
+2019-04-25 08:51:15.207647 Retorno metodo isPago:True, documento:379921  2019-04-22 00:00:00
+2019-04-25 08:51:15.523924 Retorno metodo isPago:False, documento:379216  None
+2019-04-25 08:51:15.835398 Retorno metodo isPago:False, documento:379925  None
+2019-04-25 08:51:16.147599 Retorno metodo isPago:False, documento:378929  None
+2019-04-25 08:51:16.457359 Retorno metodo isPago:False, documento:378928  None
+2019-04-25 08:51:16.772264 Retorno metodo isPago:True, documento:379879  2019-04-23 00:00:00
+2019-04-25 08:51:17.089631 Retorno metodo isPago:False, documento:379933  None
+2019-04-25 08:51:17.410045 Retorno metodo isPago:False, documento:379673  None
+2019-04-25 08:51:17.727273 Retorno metodo isPago:True, documento:380164  2019-04-23 00:00:00
+2019-04-25 08:51:18.050134 Retorno metodo isPago:False, documento:378896  None
+2019-04-25 08:51:18.364163 Retorno metodo isPago:False, documento:379675  None
+2019-04-25 08:51:18.671722 Retorno metodo isPago:True, documento:378441  2019-04-22 00:00:00
+2019-04-25 08:51:18.987414 Retorno metodo isPago:False, documento:377950  None
+2019-04-25 08:51:19.294411 Retorno metodo isPago:False, documento:378095  None
+2019-04-25 08:51:19.610665 Retorno metodo isPago:True, documento:378421  2019-04-22 00:00:00
+2019-04-25 08:51:19.922361 Retorno metodo isPago:True, documento:378184  2019-04-23 00:00:00
+2019-04-25 08:51:20.230605 Retorno metodo isPago:True, documento:378424  2019-04-23 00:00:00
+2019-04-25 08:51:20.547607 Retorno metodo isPago:True, documento:378410  2019-04-23 00:00:00
+2019-04-25 08:51:20.856224 Retorno metodo isPago:False, documento:378160  None
+2019-04-25 08:51:21.172436 Retorno metodo isPago:True, documento:378400  2019-04-23 00:00:00
+2019-04-25 08:51:21.482791 Retorno metodo isPago:False, documento:378405  None
+2019-04-25 08:51:21.786732 Retorno metodo isPago:False, documento:378416  None
+2019-04-25 08:51:22.096695 Retorno metodo isPago:False, documento:377911  None
+2019-04-25 08:51:22.413971 Retorno metodo isPago:True, documento:377962  2019-04-22 00:00:00
+2019-04-25 08:51:22.731419 Retorno metodo isPago:False, documento:378469  None
+2019-04-25 08:51:23.041377 Retorno metodo isPago:False, documento:377955  None
+2019-04-25 08:51:23.349741 Retorno metodo isPago:False, documento:378238  None
+2019-04-25 08:51:23.657715 Retorno metodo isPago:False, documento:371437  None
+2019-04-25 08:51:23.974592 Retorno metodo isPago:True, documento:378353  2019-04-22 00:00:00
+2019-04-25 08:51:24.303150 Retorno metodo isPago:False, documento:378354  None
+2019-04-25 08:51:24.627590 Retorno metodo isPago:False, documento:378471  None
+2019-04-25 08:51:24.939747 Retorno metodo isPago:False, documento:377883  None
+2019-04-25 08:51:25.254117 Retorno metodo isPago:False, documento:378321  None
+2019-04-25 08:51:25.561911 Retorno metodo isPago:False, documento:371477  None
+2019-04-25 08:51:25.873475 Retorno metodo isPago:False, documento:378148  None
+2019-04-25 08:51:26.198083 Retorno metodo isPago:False, documento:368294  None
+2019-04-25 08:51:26.505538 Retorno metodo isPago:False, documento:367853  None
+2019-04-25 08:51:26.818201 Retorno metodo isPago:False, documento:377799  None
+2019-04-25 08:51:27.127955 Retorno metodo isPago:False, documento:375787  None
+2019-04-25 08:51:27.429275 Retorno metodo isPago:True, documento:377735  2019-04-22 00:00:00
+2019-04-25 08:51:27.759912 Retorno metodo isPago:False, documento:376654  None
+2019-04-25 08:51:28.083438 Retorno metodo isPago:False, documento:376874  None
+2019-04-25 08:51:28.393169 Retorno metodo isPago:False, documento:376858  None
+2019-04-25 08:51:28.709496 Retorno metodo isPago:True, documento:377199  2019-04-23 00:00:00
+2019-04-25 08:51:29.018362 Retorno metodo isPago:True, documento:376241  2019-04-22 00:00:00
+2019-04-25 08:51:29.336184 Retorno metodo isPago:False, documento:377043  None
+2019-04-25 08:51:29.648446 Retorno metodo isPago:False, documento:375864  None
+2019-04-25 08:51:29.958316 Retorno metodo isPago:False, documento:376920  None
+2019-04-25 08:51:30.276159 Retorno metodo isPago:False, documento:377373  None
+2019-04-25 08:51:30.600112 Retorno metodo isPago:False, documento:376107  None
+2019-04-25 08:51:30.909516 Retorno metodo isPago:False, documento:376496  None
+2019-04-25 08:51:31.223721 Retorno metodo isPago:False, documento:376491  None
+2019-04-25 08:51:31.532869 Retorno metodo isPago:False, documento:377003  None
+2019-04-25 08:51:31.870939 Retorno metodo isPago:False, documento:377724  None
+2019-04-25 08:51:32.197223 Retorno metodo isPago:False, documento:377703  None
+2019-04-25 08:51:32.513496 Retorno metodo isPago:False, documento:377109  None
+2019-04-25 08:51:32.822608 Retorno metodo isPago:False, documento:365966  None
+2019-04-25 08:51:33.131200 Retorno metodo isPago:False, documento:375955  None
+2019-04-25 08:51:33.449306 Retorno metodo isPago:False, documento:377394  None
+2019-04-25 08:51:33.761100 Retorno metodo isPago:False, documento:377395  None
+2019-04-25 08:51:34.070470 Retorno metodo isPago:False, documento:377233  None
+2019-04-25 08:51:34.408971 Retorno metodo isPago:False, documento:376947  None
+2019-04-25 08:51:34.703625 Retorno metodo isPago:True, documento:377624  2019-04-22 00:00:00
+2019-04-25 08:51:35.015291 Retorno metodo isPago:False, documento:376964  None
+2019-04-25 08:51:35.331225 Retorno metodo isPago:False, documento:377269  None
+2019-04-25 08:51:35.648892 Retorno metodo isPago:False, documento:376769  None
+2019-04-25 08:51:35.958554 Retorno metodo isPago:False, documento:376615  None
+2019-04-25 08:51:36.271129 Retorno metodo isPago:False, documento:377609  None
+2019-04-25 08:51:36.580921 Retorno metodo isPago:False, documento:377567  None
+2019-04-25 08:51:36.895011 Retorno metodo isPago:False, documento:376800  None
+2019-04-25 08:51:37.212825 Retorno metodo isPago:False, documento:377463  None
+2019-04-25 08:51:37.520858 Retorno metodo isPago:True, documento:377464  2019-04-22 00:00:00
+2019-04-25 08:51:37.833744 Retorno metodo isPago:False, documento:376421  None
+2019-04-25 08:51:38.141906 Retorno metodo isPago:False, documento:377466  None
+2019-04-25 08:51:38.457013 Retorno metodo isPago:False, documento:377604  None
+2019-04-25 08:51:38.764564 Retorno metodo isPago:False, documento:375993  None
+2019-04-25 08:51:39.088909 Retorno metodo isPago:False, documento:377515  None
+2019-04-25 08:51:39.400743 Retorno metodo isPago:False, documento:377517  None
+2019-04-25 08:51:39.725488 Retorno metodo isPago:False, documento:375646  None
+2019-04-25 08:51:40.039327 Retorno metodo isPago:False, documento:377497  None
+2019-04-25 08:51:40.356829 Retorno metodo isPago:True, documento:377507  2019-04-22 00:00:00
+2019-04-25 08:51:40.671982 Retorno metodo isPago:False, documento:376972  None
+2019-04-25 08:51:41.007831 Retorno metodo isPago:False, documento:377142  None
+2019-04-25 08:51:41.323979 Retorno metodo isPago:False, documento:377405  None
+2019-04-25 08:51:41.641008 Retorno metodo isPago:False, documento:376410  None
+2019-04-25 08:51:41.950020 Retorno metodo isPago:False, documento:377804  None
+2019-04-25 08:51:42.258855 Retorno metodo isPago:False, documento:377149  None
+2019-04-25 08:51:42.576545 Retorno metodo isPago:False, documento:375608  None
+2019-04-25 08:51:42.890965 Retorno metodo isPago:False, documento:374584  None
+2019-04-25 08:51:43.201347 Retorno metodo isPago:False, documento:374728  None
+2019-04-25 08:51:43.509995 Retorno metodo isPago:True, documento:375551  2019-04-23 00:00:00
+2019-04-25 08:51:43.817446 Retorno metodo isPago:False, documento:374653  None
+2019-04-25 08:51:44.131403 Retorno metodo isPago:True, documento:374480  2019-04-22 00:00:00
+2019-04-25 08:51:44.440261 Retorno metodo isPago:False, documento:374264  None
+2019-04-25 08:51:44.754126 Retorno metodo isPago:False, documento:375477  None
+2019-04-25 08:51:45.087582 Retorno metodo isPago:True, documento:375226  2019-04-22 00:00:00
+2019-04-25 08:51:45.405709 Retorno metodo isPago:True, documento:374418  2019-04-22 00:00:00
+2019-04-25 08:51:45.711755 Retorno metodo isPago:False, documento:375202  None
+2019-04-25 08:51:46.028698 Retorno metodo isPago:False, documento:374867  None
+2019-04-25 08:51:46.345091 Retorno metodo isPago:False, documento:374948  None
+2019-04-25 08:51:46.678060 Retorno metodo isPago:False, documento:374612  None
+2019-04-25 08:51:46.988610 Retorno metodo isPago:False, documento:375395  None
+2019-04-25 08:51:47.294651 Retorno metodo isPago:False, documento:374794  None
+2019-04-25 08:51:47.601409 Retorno metodo isPago:True, documento:375537  2019-04-23 00:00:00
+2019-04-25 08:51:47.913405 Retorno metodo isPago:True, documento:372238  2019-04-22 00:00:00
+2019-04-25 08:51:47.920793 Fazendo desbloqueio do codigo 21034895
+None
+2019-04-25 08:51:48.713953 Fazendo desbloqueio do codigo 21034895
+None
+2019-04-25 08:51:49.088848 Fazendo desbloqueio do codigo 21079462
+None
+2019-04-25 08:51:49.513942 Fazendo desbloqueio do codigo 21081338
+None
+2019-04-25 08:51:50.187117 Fazendo desbloqueio do codigo 21034561
+None
+2019-04-25 08:51:50.597960 Fazendo desbloqueio do codigo 21070960
+None
+2019-04-25 08:51:50.989941 Fazendo desbloqueio do codigo 21073849
+None
+2019-04-25 08:51:51.357930 Fazendo desbloqueio do codigo 21076311
+None
+2019-04-25 08:51:51.761922 Fazendo desbloqueio do codigo 21114075
+None
+2019-04-25 08:51:52.180952 Fazendo desbloqueio do codigo 21109280
+None
+2019-04-25 08:51:52.573872 Fazendo desbloqueio do codigo 21111716
+None
+2019-04-25 08:51:52.973883 Fazendo desbloqueio do codigo 21110014
+None
+2019-04-25 08:51:53.381916 Fazendo desbloqueio do codigo 21108268
+None
+2019-04-25 08:51:53.771958 Fazendo desbloqueio do codigo 21110365
+None
+2019-04-25 08:51:54.189924 Fazendo desbloqueio do codigo 21113309
+None
+2019-04-25 08:51:54.607908 Fazendo desbloqueio do codigo 21113309
+None
+2019-04-25 08:51:55.008814 Fazendo desbloqueio do codigo 21101849
+None
+2019-04-25 08:51:55.415954 Fazendo desbloqueio do codigo 21100833
+None
+2019-04-25 08:51:55.814531 Fazendo desbloqueio do codigo 21105048
+None
+2019-04-25 08:51:56.241982 Fazendo desbloqueio do codigo 21099490
+None
+2019-04-25 08:51:57.016870 Fazendo desbloqueio do codigo 21093976
+None
+2019-04-25 08:51:57.417982 Fazendo desbloqueio do codigo 21094107
+None
+2019-04-25 08:51:57.808865 Fazendo desbloqueio do codigo 21097047
+None
+2019-04-25 08:51:58.217981 Fazendo desbloqueio do codigo 21106570
+None
+2019-04-25 08:51:58.634918 Fazendo desbloqueio do codigo 21100649
+None
+2019-04-25 08:51:59.009909 Fazendo desbloqueio do codigo 21084705
+None
+2019-04-25 08:51:59.392850 Fazendo desbloqueio do codigo 21084742
+None
+2019-04-25 08:51:59.776867 Fazendo desbloqueio do codigo 21090770
+None
+2019-04-25 08:52:00.209903 Fazendo desbloqueio do codigo 21034451
+None
+2019-04-25 08:52:00.651888 Fazendo desbloqueio do codigo 21065324
+None
+2019-04-25 08:52:01.060835 Fazendo desbloqueio do codigo 21030020
+None
+2019-04-25 08:52:01.476893 Fazendo desbloqueio do codigo 21128239
+None
+2019-04-25 08:52:01.884880 Fazendo desbloqueio do codigo 21131442
+None
+2019-04-25 08:52:02.358832 Fazendo desbloqueio do codigo 21130872
+None
+2019-04-25 08:52:02.752877 Fazendo desbloqueio do codigo 21128613
+None
+2019-04-25 08:52:03.152807 Fazendo desbloqueio do codigo 21128631
+None
+2019-04-25 08:52:03.586848 Fazendo desbloqueio do codigo 21129915
+None
+2019-04-25 08:52:03.995862 Fazendo desbloqueio do codigo 21125695
+None
+2019-04-25 08:52:04.411895 Fazendo desbloqueio do codigo 21129617
+None
+2019-04-25 08:52:04.849891 Fazendo desbloqueio do codigo 21126165
+None
+2019-04-25 08:52:05.262907 Fazendo desbloqueio do codigo 21127996
+None
+2019-04-25 08:52:05.670881 Fazendo desbloqueio do codigo 21126375
+None
+2019-04-25 08:52:06.045844 Fazendo desbloqueio do codigo 21128102
+None
+2019-04-25 08:52:06.457879 Fazendo desbloqueio do codigo 21127568
+None
+2019-04-25 08:52:06.906869 Fazendo desbloqueio do codigo 21125503
+None
+2019-04-25 08:52:07.332907 Fazendo desbloqueio do codigo 21124226
+None
+2019-04-25 08:52:07.736701 Fazendo desbloqueio do codigo 21127263
+None
+2019-04-25 08:52:08.174921 Fazendo desbloqueio do codigo 21121091
+None
+2019-04-25 08:52:08.932929 Fazendo desbloqueio do codigo 21125465
+None
+2019-04-25 08:52:09.608931 Fazendo desbloqueio do codigo 21123873
+None
+2019-04-25 08:52:09.996867 Fazendo desbloqueio do codigo 21124974
+None
+2019-04-25 08:52:10.416876 Fazendo desbloqueio do codigo 21115774
+None
+2019-04-25 08:52:10.850963 Fazendo desbloqueio do codigo 21115450
+None
+2019-04-25 08:52:11.274929 Fazendo desbloqueio do codigo 21100642
+None
+2019-04-25 08:52:11.732877 Fazendo desbloqueio do codigo 21113753
+None
+2019-04-25 08:52:12.216981 Fazendo desbloqueio do codigo 21130109
+None
+2019-04-25 08:52:12.648824 Fazendo desbloqueio do codigo 21108079
+None
+2019-04-25 08:52:13.056859 Fazendo desbloqueio do codigo 21102842
+None
+2019-04-25 08:52:13.473880 Fazendo desbloqueio do codigo 21103729
+None
+2019-04-25 08:52:13.920873 Fazendo desbloqueio do codigo 21135185
+None
+2019-04-25 08:52:14.374878 Fazendo desbloqueio do codigo 21134035
+None
+2019-04-25 08:52:14.757935 Fazendo desbloqueio do codigo 21134974
+None
+2019-04-25 08:52:15.139492 Fazendo desbloqueio do codigo 21135212
+None
+2019-04-25 08:52:15.558146 Fazendo desbloqueio do codigo 21053139
+None
+2019-04-25 08:52:15.966852 Fazendo desbloqueio do codigo 21081472
+None
+2019-04-25 08:52:16.391886 Fazendo desbloqueio do codigo 21134532
+None
+2019-04-25 08:52:16.875861 Fazendo desbloqueio do codigo 21134584
+None
+2019-04-25 08:52:17.276013 Fazendo desbloqueio do codigo 21135265
+None
+2019-04-25 08:52:17.675889 Fazendo desbloqueio do codigo 21134440
+None
+2019-04-25 08:52:18.059838 Fazendo desbloqueio do codigo 21134445
+None
+2019-04-25 08:52:18.458981 Fazendo desbloqueio do codigo 21131866
+None
+2019-04-25 08:52:18.857948 Fazendo desbloqueio do codigo 21131533
+None
+2019-04-25 08:52:19.305949 Fazendo desbloqueio do codigo 21131887
+None
+2019-04-25 08:52:19.684947 Fazendo desbloqueio do codigo 21131619
+None
+2019-04-25 08:52:20.076816 Fazendo desbloqueio do codigo 21139894
+None
+2019-04-25 08:52:20.474704 Fazendo desbloqueio do codigo 21136930
+None
+2019-04-25 08:52:20.885882 Fazendo desbloqueio do codigo 21138988
+None
+2019-04-25 08:52:21.310833 Fazendo desbloqueio do codigo 21138761
+None
+2019-04-25 08:52:21.700368 Fazendo desbloqueio do codigo 21136952
+None
+2019-04-25 08:52:22.094861 Fazendo desbloqueio do codigo 21138720
+None
+2019-04-25 08:52:22.486841 Fazendo desbloqueio do codigo 21137453
+None
+2019-04-25 08:52:23.270029 Fazendo desbloqueio do codigo 21137453
+None
+2019-04-25 08:52:23.661965 Fazendo desbloqueio do codigo 21073672
+None
+2019-04-25 08:52:24.069922 Fazendo desbloqueio do codigo 21139747
+None
+2019-04-25 08:52:24.487859 Fazendo desbloqueio do codigo 21139752
+None
+2019-04-25 08:52:24.895869 Fazendo desbloqueio do codigo 21139767
+None
+2019-04-25 08:52:25.311952 Fazendo desbloqueio do codigo 21137671
+None
+2019-04-25 08:52:25.678957 Fazendo desbloqueio do codigo 21080035
+None
+2019-04-25 08:52:26.195886 Fazendo desbloqueio do codigo 21139734
+None
+2019-04-25 08:52:26.622841 Fazendo desbloqueio do codigo 21136173
+None
+2019-04-25 08:52:27.062854 Fazendo desbloqueio do codigo 21136501
+None
+2019-04-25 08:52:27.487875 Fazendo desbloqueio do codigo 21136577
+None
+2019-04-25 08:52:27.871846 Fazendo desbloqueio do codigo 21139851
+None
+2019-04-25 08:52:28.264257 Fazendo desbloqueio do codigo 21140106
+None
+2019-04-25 08:52:28.923918 Fazendo desbloqueio do codigo 21117078
+None
+2019-04-25 08:52:29.395036 Fazendo desbloqueio do codigo 21140446
+None
+2019-04-25 08:52:30.047940 Fazendo desbloqueio do codigo 21140914
+None
+2019-04-25 08:52:30.547937 Fazendo desbloqueio do codigo 21141020
+None
+2019-04-25 08:52:30.989867 Fazendo desbloqueio do codigo 21141038
+None
+2019-04-25 08:52:31.389926 Fazendo desbloqueio do codigo 21139278
+None
+2019-04-25 08:52:33.181848 Fazendo desbloqueio do codigo 21138459
+None
+2019-04-25 08:52:33.573905 Fazendo desbloqueio do codigo 21086200
+None
+2019-04-25 08:52:33.973947 Fazendo desbloqueio do codigo 21093976
+None
+2019-04-25 08:52:34.407890 Fazendo desbloqueio do codigo 21100649
+None
+2019-04-25 08:52:34.832939 Fazendo desbloqueio do codigo 21034451
+None
+2019-04-25 08:52:35.257979 Fazendo desbloqueio do codigo 21065324
+None
+2019-04-25 08:52:35.675148 Fazendo desbloqueio do codigo 21139894
+None
+2019-04-25 08:52:36.207960 Fazendo desbloqueio do codigo 21140936
+None
+2019-04-25 08:52:36.625860 Fazendo desbloqueio do codigo 21110801
+None
+2019-04-25 08:52:37.033911 Fazendo desbloqueio do codigo 21100649
+None
+2019-04-25 08:52:37.442849 Fazendo desbloqueio do codigo 21101568
+None
+2019-04-25 08:52:37.894888 Fazendo desbloqueio do codigo 21083654
+None
+2019-04-25 08:52:38.325930 Fazendo desbloqueio do codigo 21140227
+None
+2019-04-25 08:52:38.717877 Fazendo desbloqueio do codigo 21140350
+None
+2019-04-25 08:52:39.125956 Fazendo desbloqueio do codigo 21065324
+None
+2019-04-25 08:52:39.534993 Fazendo desbloqueio do codigo 21138428
+None
+2019-04-25 08:52:39.952766 Fazendo desbloqueio do codigo 21124300
+None
+2019-04-25 08:52:40.356863 Fazendo desbloqueio do codigo 21110801
+None
+2019-04-25 08:52:40.850881 Consulta Finalizada
+2019-04-25 08:52:40.850905 Enviando email da consulta
+2019-04-25 08:52:41.292410 Email enviado
+2019-04-25 10:00:01.749160 Gerando consulta dos documentos do dia
+2019-04-25 10:00:02.060891 Retorno metodo isPago:False, documento:379406  None
+2019-04-25 10:00:02.369741 Retorno metodo isPago:False, documento:379648  None
+2019-04-25 10:00:02.685167 Retorno metodo isPago:False, documento:380139  None
+2019-04-25 10:00:03.017216 Retorno metodo isPago:False, documento:379264  None
+2019-04-25 10:00:03.333880 Retorno metodo isPago:False, documento:379683  None
+2019-04-25 10:00:03.644718 Retorno metodo isPago:False, documento:379682  None
+2019-04-25 10:00:03.952222 Retorno metodo isPago:False, documento:380060  None
+2019-04-25 10:00:04.268016 Retorno metodo isPago:False, documento:380132  None
+2019-04-25 10:00:04.561653 Retorno metodo isPago:False, documento:378590  None
+2019-04-25 10:00:04.869358 Retorno metodo isPago:False, documento:380018  None
+2019-04-25 10:00:05.191426 Retorno metodo isPago:False, documento:379605  None
+2019-04-25 10:00:05.527108 Retorno metodo isPago:False, documento:379606  None
+2019-04-25 10:00:05.834270 Retorno metodo isPago:False, documento:378578  None
+2019-04-25 10:00:06.136308 Retorno metodo isPago:False, documento:380056  None
+2019-04-25 10:00:06.443571 Retorno metodo isPago:False, documento:378558  None
+2019-04-25 10:00:06.749623 Retorno metodo isPago:False, documento:380047  None
+2019-04-25 10:00:07.065423 Retorno metodo isPago:False, documento:380113  None
+2019-04-25 10:00:07.370913 Retorno metodo isPago:False, documento:380112  None
+2019-04-25 10:00:07.687009 Retorno metodo isPago:False, documento:380077  None
+2019-04-25 10:00:07.994037 Retorno metodo isPago:False, documento:379550  None
+2019-04-25 10:00:08.309570 Retorno metodo isPago:False, documento:379988  None
+2019-04-25 10:00:08.621000 Retorno metodo isPago:False, documento:379131  None
+2019-04-25 10:00:08.946582 Retorno metodo isPago:False, documento:379907  None
+2019-04-25 10:00:09.271319 Retorno metodo isPago:False, documento:379222  None
+2019-04-25 10:00:09.578060 Retorno metodo isPago:False, documento:379815  None
+2019-04-25 10:00:09.887496 Retorno metodo isPago:False, documento:379906  None
+2019-04-25 10:00:10.196252 Retorno metodo isPago:False, documento:379978  None
+2019-04-25 10:00:10.509572 Retorno metodo isPago:False, documento:380076  None
+2019-04-25 10:00:10.845124 Retorno metodo isPago:False, documento:380075  None
+2019-04-25 10:00:11.152560 Retorno metodo isPago:False, documento:379951  None
+2019-04-25 10:00:11.467561 Retorno metodo isPago:False, documento:379592  None
+2019-04-25 10:00:11.775088 Retorno metodo isPago:False, documento:380111  None
+2019-04-25 10:00:12.091011 Retorno metodo isPago:False, documento:379411  None
+2019-04-25 10:00:12.420891 Retorno metodo isPago:False, documento:380084  None
+2019-04-25 10:00:12.727897 Retorno metodo isPago:False, documento:380156  None
+2019-04-25 10:00:13.038282 Retorno metodo isPago:False, documento:379039  None
+2019-04-25 10:00:13.354238 Retorno metodo isPago:False, documento:378662  None
+2019-04-25 10:00:13.664313 Retorno metodo isPago:False, documento:378654  None
+2019-04-25 10:00:13.981018 Retorno metodo isPago:False, documento:379843  None
+2019-04-25 10:00:14.297793 Retorno metodo isPago:False, documento:379847  None
+2019-04-25 10:00:14.609111 Retorno metodo isPago:False, documento:379477  None
+2019-04-25 10:00:14.927474 Retorno metodo isPago:False, documento:380034  None
+2019-04-25 10:00:15.234741 Retorno metodo isPago:False, documento:379753  None
+2019-04-25 10:00:15.549460 Retorno metodo isPago:False, documento:378631  None
+2019-04-25 10:00:15.857509 Retorno metodo isPago:False, documento:380149  None
+2019-04-25 10:00:16.173244 Retorno metodo isPago:False, documento:380028  None
+2019-04-25 10:00:16.480739 Retorno metodo isPago:False, documento:380031  None
+2019-04-25 10:00:16.788293 Retorno metodo isPago:False, documento:380115  None
+2019-04-25 10:00:17.102677 Retorno metodo isPago:False, documento:379006  None
+2019-04-25 10:00:17.414108 Retorno metodo isPago:False, documento:378602  None
+2019-04-25 10:00:17.733736 Retorno metodo isPago:False, documento:379705  None
+2019-04-25 10:00:18.043293 Retorno metodo isPago:False, documento:379839  None
+2019-04-25 10:00:18.351164 Retorno metodo isPago:False, documento:379612  None
+2019-04-25 10:00:18.665079 Retorno metodo isPago:False, documento:380026  None
+2019-04-25 10:00:18.972571 Retorno metodo isPago:False, documento:379611  None
+2019-04-25 10:00:19.296262 Retorno metodo isPago:False, documento:379750  None
+2019-04-25 10:00:19.632493 Retorno metodo isPago:False, documento:378993  None
+2019-04-25 10:00:19.940389 Retorno metodo isPago:False, documento:379613  None
+2019-04-25 10:00:20.260999 Retorno metodo isPago:False, documento:378854  None
+2019-04-25 10:00:20.578759 Retorno metodo isPago:False, documento:378978  None
+2019-04-25 10:00:20.883214 Retorno metodo isPago:False, documento:379302  None
+2019-04-25 10:00:21.193919 Retorno metodo isPago:False, documento:379826  None
+2019-04-25 10:00:21.509608 Retorno metodo isPago:False, documento:380019  None
+2019-04-25 10:00:21.821664 Retorno metodo isPago:False, documento:379239  None
+2019-04-25 10:00:22.137415 Retorno metodo isPago:False, documento:380040  None
+2019-04-25 10:00:22.449359 Retorno metodo isPago:False, documento:379423  None
+2019-04-25 10:00:22.758806 Retorno metodo isPago:False, documento:379817  None
+2019-04-25 10:00:23.074065 Retorno metodo isPago:False, documento:379836  None
+2019-04-25 10:00:23.381963 Retorno metodo isPago:False, documento:378763  None
+2019-04-25 10:00:23.698374 Retorno metodo isPago:False, documento:380061  None
+2019-04-25 10:00:24.006001 Retorno metodo isPago:False, documento:380119  None
+2019-04-25 10:00:24.324200 Retorno metodo isPago:False, documento:378767  None
+2019-04-25 10:00:24.630310 Retorno metodo isPago:False, documento:379443  None
+2019-04-25 10:00:24.943935 Retorno metodo isPago:False, documento:380072  None
+2019-04-25 10:00:25.258075 Retorno metodo isPago:False, documento:379446  None
+2019-04-25 10:00:25.569846 Retorno metodo isPago:False, documento:379417  None
+2019-04-25 10:00:25.885173 Retorno metodo isPago:False, documento:379649  None
+2019-04-25 10:00:26.200671 Retorno metodo isPago:False, documento:379505  None
+2019-04-25 10:00:26.515640 Retorno metodo isPago:False, documento:379044  None
+2019-04-25 10:00:26.857543 Retorno metodo isPago:False, documento:378883  None
+2019-04-25 10:00:27.164978 Retorno metodo isPago:False, documento:379185  None
+2019-04-25 10:00:27.480310 Retorno metodo isPago:False, documento:379623  None
+2019-04-25 10:00:27.797224 Retorno metodo isPago:False, documento:378666  None
+2019-04-25 10:00:28.112674 Retorno metodo isPago:False, documento:379181  None
+2019-04-25 10:00:28.420271 Retorno metodo isPago:False, documento:379759  None
+2019-04-25 10:00:28.729647 Retorno metodo isPago:False, documento:378675  None
+2019-04-25 10:00:29.041304 Retorno metodo isPago:False, documento:378668  None
+2019-04-25 10:00:29.352332 Retorno metodo isPago:False, documento:379669  None
+2019-04-25 10:00:29.668741 Retorno metodo isPago:False, documento:379926  None
+2019-04-25 10:00:29.980765 Retorno metodo isPago:False, documento:379492  None
+2019-04-25 10:00:30.297483 Retorno metodo isPago:False, documento:379851  None
+2019-04-25 10:00:30.608660 Retorno metodo isPago:False, documento:379493  None
+2019-04-25 10:00:30.914731 Retorno metodo isPago:False, documento:379717  None
+2019-04-25 10:00:31.229617 Retorno metodo isPago:False, documento:379034  None
+2019-04-25 10:00:31.537367 Retorno metodo isPago:False, documento:379491  None
+2019-04-25 10:00:31.861415 Retorno metodo isPago:False, documento:379667  None
+2019-04-25 10:00:32.176219 Retorno metodo isPago:False, documento:379024  None
+2019-04-25 10:00:32.487094 Retorno metodo isPago:False, documento:379803  None
+2019-04-25 10:00:32.803829 Retorno metodo isPago:False, documento:378130  None
+2019-04-25 10:00:33.119191 Retorno metodo isPago:False, documento:380161  None
+2019-04-25 10:00:33.435319 Retorno metodo isPago:False, documento:379531  None
+2019-04-25 10:00:33.751769 Retorno metodo isPago:False, documento:379765  None
+2019-04-25 10:00:34.060280 Retorno metodo isPago:False, documento:378699  None
+2019-04-25 10:00:34.377024 Retorno metodo isPago:False, documento:378698  None
+2019-04-25 10:00:34.671246 Retorno metodo isPago:False, documento:378900  None
+2019-04-25 10:00:34.989268 Retorno metodo isPago:False, documento:378690  None
+2019-04-25 10:00:35.304720 Retorno metodo isPago:False, documento:379258  None
+2019-04-25 10:00:35.621365 Retorno metodo isPago:False, documento:379079  None
+2019-04-25 10:00:35.923616 Retorno metodo isPago:False, documento:379065  None
+2019-04-25 10:00:36.231881 Retorno metodo isPago:False, documento:379871  None
+2019-04-25 10:00:36.565814 Retorno metodo isPago:False, documento:379509  None
+2019-04-25 10:00:36.878419 Retorno metodo isPago:False, documento:380055  None
+2019-04-25 10:00:37.195719 Retorno metodo isPago:False, documento:380128  None
+2019-04-25 10:00:37.508226 Retorno metodo isPago:False, documento:379625  None
+2019-04-25 10:00:37.824383 Retorno metodo isPago:False, documento:378890  None
+2019-04-25 10:00:38.140268 Retorno metodo isPago:False, documento:379734  None
+2019-04-25 10:00:38.447416 Retorno metodo isPago:False, documento:379633  None
+2019-04-25 10:00:38.761986 Retorno metodo isPago:False, documento:379721  None
+2019-04-25 10:00:39.078371 Retorno metodo isPago:False, documento:378885  None
+2019-04-25 10:00:39.390321 Retorno metodo isPago:False, documento:379849  None
+2019-04-25 10:00:39.700214 Retorno metodo isPago:False, documento:380063  None
+2019-04-25 10:00:40.012271 Retorno metodo isPago:False, documento:378982  None
+2019-04-25 10:00:40.328190 Retorno metodo isPago:False, documento:379761  None
+2019-04-25 10:00:40.632728 Retorno metodo isPago:False, documento:379909  None
+2019-04-25 10:00:40.948759 Retorno metodo isPago:False, documento:379864  None
+2019-04-25 10:00:41.259146 Retorno metodo isPago:False, documento:379485  None
+2019-04-25 10:00:41.571425 Retorno metodo isPago:False, documento:379885  None
+2019-04-25 10:00:41.884848 Retorno metodo isPago:True, documento:378919  2015-12-30 00:00:00
+2019-04-25 10:00:41.884894 Retorno metodo isPago:False, documento:378919  None
+2019-04-25 10:00:42.212108 Retorno metodo isPago:False, documento:379927  None
+2019-04-25 10:00:42.544590 Retorno metodo isPago:False, documento:379889  None
+2019-04-25 10:00:42.853158 Retorno metodo isPago:False, documento:379639  None
+2019-04-25 10:00:43.167603 Retorno metodo isPago:False, documento:379886  None
+2019-04-25 10:00:43.484836 Retorno metodo isPago:False, documento:378344  None
+2019-04-25 10:00:43.792962 Retorno metodo isPago:False, documento:379213  None
+2019-04-25 10:00:44.119166 Retorno metodo isPago:False, documento:379388  None
+2019-04-25 10:00:44.428108 Retorno metodo isPago:False, documento:379887  None
+2019-04-25 10:00:44.745469 Retorno metodo isPago:False, documento:378350  None
+2019-04-25 10:00:45.063417 Retorno metodo isPago:False, documento:379538  None
+2019-04-25 10:00:45.371542 Retorno metodo isPago:False, documento:379913  None
+2019-04-25 10:00:45.679325 Retorno metodo isPago:False, documento:379914  None
+2019-04-25 10:00:45.989357 Retorno metodo isPago:False, documento:379088  None
+2019-04-25 10:00:46.297182 Retorno metodo isPago:False, documento:379087  None
+2019-04-25 10:00:46.606891 Retorno metodo isPago:False, documento:379918  None
+2019-04-25 10:00:46.919489 Retorno metodo isPago:False, documento:378726  None
+2019-04-25 10:00:47.235478 Retorno metodo isPago:False, documento:379920  None
+2019-04-25 10:00:47.544362 Retorno metodo isPago:False, documento:379216  None
+2019-04-25 10:00:47.868825 Retorno metodo isPago:False, documento:379925  None
+2019-04-25 10:00:48.176843 Retorno metodo isPago:False, documento:378929  None
+2019-04-25 10:00:48.493715 Retorno metodo isPago:False, documento:378928  None
+2019-04-25 10:00:48.802039 Retorno metodo isPago:False, documento:379933  None
+2019-04-25 10:00:49.114418 Retorno metodo isPago:False, documento:379673  None
+2019-04-25 10:00:49.430401 Retorno metodo isPago:False, documento:378896  None
+2019-04-25 10:00:49.745477 Retorno metodo isPago:False, documento:379675  None
+2019-04-25 10:00:50.054928 Retorno metodo isPago:False, documento:377950  None
+2019-04-25 10:00:50.370957 Retorno metodo isPago:False, documento:378095  None
+2019-04-25 10:00:50.682518 Retorno metodo isPago:False, documento:378160  None
+2019-04-25 10:00:50.997676 Retorno metodo isPago:False, documento:378405  None
+2019-04-25 10:00:51.306313 Retorno metodo isPago:False, documento:378416  None
+2019-04-25 10:00:51.622925 Retorno metodo isPago:False, documento:377911  None
+2019-04-25 10:00:51.946353 Retorno metodo isPago:False, documento:378469  None
+2019-04-25 10:00:52.255171 Retorno metodo isPago:False, documento:377955  None
+2019-04-25 10:00:52.567023 Retorno metodo isPago:False, documento:378238  None
+2019-04-25 10:00:52.883815 Retorno metodo isPago:False, documento:371437  None
+2019-04-25 10:00:53.195094 Retorno metodo isPago:False, documento:378354  None
+2019-04-25 10:00:53.512351 Retorno metodo isPago:False, documento:378471  None
+2019-04-25 10:00:53.819552 Retorno metodo isPago:False, documento:377883  None
+2019-04-25 10:00:54.136249 Retorno metodo isPago:False, documento:378321  None
+2019-04-25 10:00:54.444063 Retorno metodo isPago:False, documento:371477  None
+2019-04-25 10:00:54.753702 Retorno metodo isPago:False, documento:378148  None
+2019-04-25 10:00:55.068867 Retorno metodo isPago:False, documento:368294  None
+2019-04-25 10:00:55.398583 Retorno metodo isPago:False, documento:367853  None
+2019-04-25 10:00:55.714928 Retorno metodo isPago:False, documento:377799  None
+2019-04-25 10:00:56.022852 Retorno metodo isPago:False, documento:375787  None
+2019-04-25 10:00:56.346705 Retorno metodo isPago:False, documento:376654  None
+2019-04-25 10:00:56.653666 Retorno metodo isPago:False, documento:376874  None
+2019-04-25 10:00:56.987513 Retorno metodo isPago:False, documento:376858  None
+2019-04-25 10:00:57.302525 Retorno metodo isPago:False, documento:377043  None
+2019-04-25 10:00:57.610467 Retorno metodo isPago:False, documento:375864  None
+2019-04-25 10:00:57.933365 Retorno metodo isPago:False, documento:376920  None
+2019-04-25 10:00:58.239398 Retorno metodo isPago:False, documento:377373  None
+2019-04-25 10:00:58.542824 Retorno metodo isPago:False, documento:376107  None
+2019-04-25 10:00:58.851009 Retorno metodo isPago:False, documento:376496  None
+2019-04-25 10:00:59.158706 Retorno metodo isPago:False, documento:376491  None
+2019-04-25 10:00:59.474761 Retorno metodo isPago:False, documento:377003  None
+2019-04-25 10:00:59.789357 Retorno metodo isPago:False, documento:377724  None
+2019-04-25 10:01:00.128610 Retorno metodo isPago:False, documento:377703  None
+2019-04-25 10:01:00.445019 Retorno metodo isPago:False, documento:377109  None
+2019-04-25 10:01:00.759986 Retorno metodo isPago:False, documento:365966  None
+2019-04-25 10:01:01.076803 Retorno metodo isPago:False, documento:375955  None
+2019-04-25 10:01:01.386017 Retorno metodo isPago:False, documento:377394  None
+2019-04-25 10:01:01.702072 Retorno metodo isPago:False, documento:377395  None
+2019-04-25 10:01:02.045304 Retorno metodo isPago:False, documento:377233  None
+2019-04-25 10:01:02.353086 Retorno metodo isPago:False, documento:376947  None
+2019-04-25 10:01:02.654451 Retorno metodo isPago:False, documento:376964  None
+2019-04-25 10:01:02.962932 Retorno metodo isPago:False, documento:377269  None
+2019-04-25 10:01:03.280193 Retorno metodo isPago:False, documento:376769  None
+2019-04-25 10:01:03.584414 Retorno metodo isPago:False, documento:376615  None
+2019-04-25 10:01:03.903963 Retorno metodo isPago:False, documento:377609  None
+2019-04-25 10:01:04.211962 Retorno metodo isPago:False, documento:377567  None
+2019-04-25 10:01:04.505720 Retorno metodo isPago:False, documento:376800  None
+2019-04-25 10:01:04.799779 Retorno metodo isPago:False, documento:377463  None
+2019-04-25 10:01:05.110028 Retorno metodo isPago:False, documento:376421  None
+2019-04-25 10:01:05.427984 Retorno metodo isPago:False, documento:377466  None
+2019-04-25 10:01:05.738360 Retorno metodo isPago:False, documento:377604  None
+2019-04-25 10:01:06.046287 Retorno metodo isPago:False, documento:375993  None
+2019-04-25 10:01:06.363477 Retorno metodo isPago:False, documento:377515  None
+2019-04-25 10:01:06.671996 Retorno metodo isPago:False, documento:377517  None
+2019-04-25 10:01:06.980672 Retorno metodo isPago:False, documento:375646  None
+2019-04-25 10:01:07.291079 Retorno metodo isPago:False, documento:377497  None
+2019-04-25 10:01:07.599532 Retorno metodo isPago:False, documento:376972  None
+2019-04-25 10:01:07.907425 Retorno metodo isPago:False, documento:377142  None
+2019-04-25 10:01:08.223174 Retorno metodo isPago:False, documento:377405  None
+2019-04-25 10:01:08.530219 Retorno metodo isPago:False, documento:376410  None
+2019-04-25 10:01:08.840472 Retorno metodo isPago:False, documento:377804  None
+2019-04-25 10:01:09.154252 Retorno metodo isPago:False, documento:377149  None
+2019-04-25 10:01:09.460671 Retorno metodo isPago:False, documento:375608  None
+2019-04-25 10:01:09.768192 Retorno metodo isPago:False, documento:374584  None
+2019-04-25 10:01:10.085102 Retorno metodo isPago:False, documento:374728  None
+2019-04-25 10:01:10.392992 Retorno metodo isPago:False, documento:374653  None
+2019-04-25 10:01:10.710772 Retorno metodo isPago:False, documento:374264  None
+2019-04-25 10:01:11.019386 Retorno metodo isPago:False, documento:375477  None
+2019-04-25 10:01:11.328534 Retorno metodo isPago:False, documento:375202  None
+2019-04-25 10:01:11.644086 Retorno metodo isPago:False, documento:374867  None
+2019-04-25 10:01:11.961635 Retorno metodo isPago:False, documento:374948  None
+2019-04-25 10:01:12.277719 Retorno metodo isPago:False, documento:374612  None
+2019-04-25 10:01:12.593177 Retorno metodo isPago:False, documento:375395  None
+2019-04-25 10:01:12.908513 Retorno metodo isPago:False, documento:374794  None
+2019-04-25 10:01:12.914781 Consulta Finalizada
+2019-04-25 10:01:12.914802 Enviando email da consulta
+2019-04-25 10:01:13.263296 Email enviado
+2019-04-25 15:31:44.415200 Gerando consulta dos documentos do dia
+2019-04-25 15:31:44.741695 Retorno metodo isPago:False, documento:379406  None
+2019-04-25 15:31:45.059549 Retorno metodo isPago:False, documento:379648  None
+2019-04-25 15:31:45.367745 Retorno metodo isPago:False, documento:380139  None
+2019-04-25 15:31:45.694723 Retorno metodo isPago:False, documento:379264  None
+2019-04-25 15:31:46.005833 Retorno metodo isPago:False, documento:379683  None
+2019-04-25 15:31:46.326461 Retorno metodo isPago:False, documento:379682  None
+2019-04-25 15:31:46.635471 Retorno metodo isPago:False, documento:380060  None
+2019-04-25 15:31:46.947005 Retorno metodo isPago:False, documento:380132  None
+2019-04-25 15:31:47.253971 Retorno metodo isPago:False, documento:378590  None
+2019-04-25 15:31:47.564298 Retorno metodo isPago:False, documento:380018  None
+2019-04-25 15:31:47.872875 Retorno metodo isPago:False, documento:379605  None
+2019-04-25 15:31:48.183114 Retorno metodo isPago:False, documento:379606  None
+2019-04-25 15:31:48.502422 Retorno metodo isPago:False, documento:378578  None
+2019-04-25 15:31:48.813029 Retorno metodo isPago:False, documento:380056  None
+2019-04-25 15:31:49.120843 Retorno metodo isPago:False, documento:378558  None
+2019-04-25 15:31:49.448048 Retorno metodo isPago:False, documento:380047  None
+2019-04-25 15:31:49.770908 Retorno metodo isPago:False, documento:380113  None
+2019-04-25 15:31:50.088697 Retorno metodo isPago:False, documento:380112  None
+2019-04-25 15:31:50.400657 Retorno metodo isPago:False, documento:380077  None
+2019-04-25 15:31:50.711488 Retorno metodo isPago:False, documento:379550  None
+2019-04-25 15:31:51.024200 Retorno metodo isPago:False, documento:379988  None
+2019-04-25 15:31:51.334307 Retorno metodo isPago:False, documento:379131  None
+2019-04-25 15:31:51.650860 Retorno metodo isPago:False, documento:379907  None
+2019-04-25 15:31:51.947580 Retorno metodo isPago:False, documento:379222  None
+2019-04-25 15:31:52.244156 Retorno metodo isPago:False, documento:379815  None
+2019-04-25 15:31:52.555730 Retorno metodo isPago:False, documento:379906  None
+2019-04-25 15:31:52.864444 Retorno metodo isPago:False, documento:379978  None
+2019-04-25 15:31:53.182312 Retorno metodo isPago:False, documento:380076  None
+2019-04-25 15:31:53.483663 Retorno metodo isPago:False, documento:380075  None
+2019-04-25 15:31:53.791447 Retorno metodo isPago:False, documento:379951  None
+2019-04-25 15:31:54.114642 Retorno metodo isPago:False, documento:379592  None
+2019-04-25 15:31:54.423591 Retorno metodo isPago:False, documento:380111  None
+2019-04-25 15:31:54.732617 Retorno metodo isPago:False, documento:379411  None
+2019-04-25 15:31:55.043233 Retorno metodo isPago:False, documento:380084  None
+2019-04-25 15:31:55.348130 Retorno metodo isPago:False, documento:380156  None
+2019-04-25 15:31:55.643909 Retorno metodo isPago:False, documento:379039  None
+2019-04-25 15:31:55.950886 Retorno metodo isPago:False, documento:378662  None
+2019-04-25 15:31:56.252511 Retorno metodo isPago:False, documento:378654  None
+2019-04-25 15:31:56.561918 Retorno metodo isPago:False, documento:379843  None
+2019-04-25 15:31:56.882443 Retorno metodo isPago:False, documento:379847  None
+2019-04-25 15:31:57.189268 Retorno metodo isPago:False, documento:379477  None
+2019-04-25 15:31:57.515671 Retorno metodo isPago:False, documento:380034  None
+2019-04-25 15:31:57.846531 Retorno metodo isPago:False, documento:379753  None
+2019-04-25 15:31:58.163557 Retorno metodo isPago:False, documento:378631  None
+2019-04-25 15:31:58.460548 Retorno metodo isPago:False, documento:380149  None
+2019-04-25 15:31:58.778259 Retorno metodo isPago:False, documento:380028  None
+2019-04-25 15:31:59.095819 Retorno metodo isPago:False, documento:380031  None
+2019-04-25 15:31:59.406028 Retorno metodo isPago:False, documento:380115  None
+2019-04-25 15:31:59.724213 Retorno metodo isPago:False, documento:379006  None
+2019-04-25 15:32:00.043319 Retorno metodo isPago:False, documento:378602  None
+2019-04-25 15:32:00.360255 Retorno metodo isPago:False, documento:379705  None
+2019-04-25 15:32:00.673229 Retorno metodo isPago:False, documento:379839  None
+2019-04-25 15:32:00.992482 Retorno metodo isPago:False, documento:379612  None
+2019-04-25 15:32:01.311814 Retorno metodo isPago:False, documento:380026  None
+2019-04-25 15:32:01.619799 Retorno metodo isPago:False, documento:379611  None
+2019-04-25 15:32:01.929005 Retorno metodo isPago:False, documento:379750  None
+2019-04-25 15:32:02.237835 Retorno metodo isPago:False, documento:378993  None
+2019-04-25 15:32:02.555702 Retorno metodo isPago:False, documento:379613  None
+2019-04-25 15:32:02.871783 Retorno metodo isPago:False, documento:378854  None
+2019-04-25 15:32:03.182019 Retorno metodo isPago:False, documento:378978  None
+2019-04-25 15:32:03.490778 Retorno metodo isPago:False, documento:379302  None
+2019-04-25 15:32:03.796755 Retorno metodo isPago:False, documento:379826  None
+2019-04-25 15:32:04.112196 Retorno metodo isPago:False, documento:380019  None
+2019-04-25 15:32:04.438152 Retorno metodo isPago:False, documento:379239  None
+2019-04-25 15:32:04.734562 Retorno metodo isPago:False, documento:380040  None
+2019-04-25 15:32:05.045997 Retorno metodo isPago:False, documento:379423  None
+2019-04-25 15:32:05.342023 Retorno metodo isPago:False, documento:379817  None
+2019-04-25 15:32:05.658238 Retorno metodo isPago:False, documento:379836  None
+2019-04-25 15:32:05.975888 Retorno metodo isPago:False, documento:378763  None
+2019-04-25 15:32:06.293142 Retorno metodo isPago:False, documento:380061  None
+2019-04-25 15:32:06.604874 Retorno metodo isPago:False, documento:380119  None
+2019-04-25 15:32:06.922240 Retorno metodo isPago:False, documento:378767  None
+2019-04-25 15:32:07.232577 Retorno metodo isPago:False, documento:379443  None
+2019-04-25 15:32:07.547859 Retorno metodo isPago:False, documento:380072  None
+2019-04-25 15:32:07.865424 Retorno metodo isPago:False, documento:379446  None
+2019-04-25 15:32:08.180921 Retorno metodo isPago:False, documento:379417  None
+2019-04-25 15:32:08.487348 Retorno metodo isPago:False, documento:379649  None
+2019-04-25 15:32:08.811652 Retorno metodo isPago:False, documento:379505  None
+2019-04-25 15:32:09.121247 Retorno metodo isPago:False, documento:379044  None
+2019-04-25 15:32:09.426101 Retorno metodo isPago:False, documento:378883  None
+2019-04-25 15:32:09.744498 Retorno metodo isPago:False, documento:379185  None
+2019-04-25 15:32:10.055087 Retorno metodo isPago:False, documento:379623  None
+2019-04-25 15:32:10.373526 Retorno metodo isPago:False, documento:378666  None
+2019-04-25 15:32:10.694877 Retorno metodo isPago:False, documento:379181  None
+2019-04-25 15:32:11.012578 Retorno metodo isPago:False, documento:379759  None
+2019-04-25 15:32:11.320689 Retorno metodo isPago:False, documento:378675  None
+2019-04-25 15:32:11.636187 Retorno metodo isPago:False, documento:378668  None
+2019-04-25 15:32:11.949094 Retorno metodo isPago:False, documento:379669  None
+2019-04-25 15:32:12.270018 Retorno metodo isPago:False, documento:379926  None
+2019-04-25 15:32:12.580242 Retorno metodo isPago:False, documento:379492  None
+2019-04-25 15:32:12.897706 Retorno metodo isPago:False, documento:379851  None
+2019-04-25 15:32:13.206113 Retorno metodo isPago:False, documento:379493  None
+2019-04-25 15:32:13.520137 Retorno metodo isPago:False, documento:379717  None
+2019-04-25 15:32:13.837814 Retorno metodo isPago:False, documento:379034  None
+2019-04-25 15:32:14.160916 Retorno metodo isPago:False, documento:379491  None
+2019-04-25 15:32:14.471629 Retorno metodo isPago:False, documento:379667  None
+2019-04-25 15:32:14.778991 Retorno metodo isPago:False, documento:379024  None
+2019-04-25 15:32:15.088919 Retorno metodo isPago:False, documento:379803  None
+2019-04-25 15:32:15.406842 Retorno metodo isPago:False, documento:378130  None
+2019-04-25 15:32:15.718623 Retorno metodo isPago:False, documento:380161  None
+2019-04-25 15:32:16.032256 Retorno metodo isPago:False, documento:379531  None
+2019-04-25 15:32:16.351801 Retorno metodo isPago:False, documento:379765  None
+2019-04-25 15:32:16.669434 Retorno metodo isPago:False, documento:378699  None
+2019-04-25 15:32:16.979361 Retorno metodo isPago:False, documento:378698  None
+2019-04-25 15:32:17.286289 Retorno metodo isPago:False, documento:378900  None
+2019-04-25 15:32:17.593765 Retorno metodo isPago:False, documento:378690  None
+2019-04-25 15:32:17.890613 Retorno metodo isPago:False, documento:379258  None
+2019-04-25 15:32:18.203019 Retorno metodo isPago:False, documento:379079  None
+2019-04-25 15:32:18.511706 Retorno metodo isPago:False, documento:379065  None
+2019-04-25 15:32:18.830659 Retorno metodo isPago:False, documento:379871  None
+2019-04-25 15:32:19.163360 Retorno metodo isPago:False, documento:379509  None
+2019-04-25 15:32:19.471914 Retorno metodo isPago:False, documento:380055  None
+2019-04-25 15:32:19.782645 Retorno metodo isPago:False, documento:380128  None
+2019-04-25 15:32:20.097033 Retorno metodo isPago:False, documento:379625  None
+2019-04-25 15:32:20.404725 Retorno metodo isPago:False, documento:378890  None
+2019-04-25 15:32:20.729157 Retorno metodo isPago:False, documento:379734  None
+2019-04-25 15:32:21.039514 Retorno metodo isPago:False, documento:379633  None
+2019-04-25 15:32:21.348575 Retorno metodo isPago:False, documento:379721  None
+2019-04-25 15:32:21.671903 Retorno metodo isPago:False, documento:378885  None
+2019-04-25 15:32:21.988295 Retorno metodo isPago:False, documento:379849  None
+2019-04-25 15:32:22.283724 Retorno metodo isPago:False, documento:380063  None
+2019-04-25 15:32:22.601584 Retorno metodo isPago:False, documento:378982  None
+2019-04-25 15:32:22.919205 Retorno metodo isPago:False, documento:379761  None
+2019-04-25 15:32:23.241289 Retorno metodo isPago:False, documento:379909  None
+2019-04-25 15:32:23.559630 Retorno metodo isPago:False, documento:379864  None
+2019-04-25 15:32:23.883663 Retorno metodo isPago:False, documento:379485  None
+2019-04-25 15:32:24.194745 Retorno metodo isPago:False, documento:379885  None
+2019-04-25 15:32:24.509460 Retorno metodo isPago:True, documento:378919  2015-12-30 00:00:00
+2019-04-25 15:32:24.509509 Retorno metodo isPago:False, documento:378919  None
+2019-04-25 15:32:24.817277 Retorno metodo isPago:False, documento:379927  None
+2019-04-25 15:32:25.121102 Retorno metodo isPago:False, documento:379889  None
+2019-04-25 15:32:25.441090 Retorno metodo isPago:False, documento:379639  None
+2019-04-25 15:32:25.750246 Retorno metodo isPago:False, documento:379886  None
+2019-04-25 15:32:26.067520 Retorno metodo isPago:False, documento:378344  None
+2019-04-25 15:32:26.375945 Retorno metodo isPago:False, documento:379213  None
+2019-04-25 15:32:26.726000 Retorno metodo isPago:False, documento:379388  None
+2019-04-25 15:32:27.033663 Retorno metodo isPago:False, documento:379887  None
+2019-04-25 15:32:27.344528 Retorno metodo isPago:False, documento:378350  None
+2019-04-25 15:32:27.659864 Retorno metodo isPago:False, documento:379538  None
+2019-04-25 15:32:27.968149 Retorno metodo isPago:False, documento:379913  None
+2019-04-25 15:32:28.292542 Retorno metodo isPago:False, documento:379914  None
+2019-04-25 15:32:28.604246 Retorno metodo isPago:False, documento:379088  None
+2019-04-25 15:32:28.915763 Retorno metodo isPago:False, documento:379087  None
+2019-04-25 15:32:29.226343 Retorno metodo isPago:False, documento:379918  None
+2019-04-25 15:32:29.534667 Retorno metodo isPago:False, documento:378726  None
+2019-04-25 15:32:29.845993 Retorno metodo isPago:False, documento:379920  None
+2019-04-25 15:32:30.169022 Retorno metodo isPago:False, documento:379216  None
+2019-04-25 15:32:30.486721 Retorno metodo isPago:False, documento:379925  None
+2019-04-25 15:32:30.810067 Retorno metodo isPago:False, documento:378929  None
+2019-04-25 15:32:31.127139 Retorno metodo isPago:False, documento:378928  None
+2019-04-25 15:32:31.443880 Retorno metodo isPago:False, documento:379933  None
+2019-04-25 15:32:31.752584 Retorno metodo isPago:False, documento:379673  None
+2019-04-25 15:32:32.070182 Retorno metodo isPago:False, documento:378896  None
+2019-04-25 15:32:32.378652 Retorno metodo isPago:False, documento:379675  None
+2019-04-25 15:32:32.685965 Retorno metodo isPago:False, documento:377950  None
+2019-04-25 15:32:33.002768 Retorno metodo isPago:False, documento:378095  None
+2019-04-25 15:32:33.319366 Retorno metodo isPago:False, documento:378160  None
+2019-04-25 15:32:33.640994 Retorno metodo isPago:False, documento:378405  None
+2019-04-25 15:32:33.954653 Retorno metodo isPago:False, documento:378416  None
+2019-04-25 15:32:34.263495 Retorno metodo isPago:False, documento:377911  None
+2019-04-25 15:32:34.572698 Retorno metodo isPago:False, documento:378469  None
+2019-04-25 15:32:34.897162 Retorno metodo isPago:False, documento:377955  None
+2019-04-25 15:32:35.204991 Retorno metodo isPago:False, documento:378238  None
+2019-04-25 15:32:35.518229 Retorno metodo isPago:False, documento:371437  None
+2019-04-25 15:32:35.843641 Retorno metodo isPago:False, documento:378354  None
+2019-04-25 15:32:36.154783 Retorno metodo isPago:False, documento:378471  None
+2019-04-25 15:32:36.469620 Retorno metodo isPago:False, documento:377883  None
+2019-04-25 15:32:36.788186 Retorno metodo isPago:False, documento:378321  None
+2019-04-25 15:32:37.095956 Retorno metodo isPago:False, documento:371477  None
+2019-04-25 15:32:37.414687 Retorno metodo isPago:False, documento:378148  None
+2019-04-25 15:32:37.723170 Retorno metodo isPago:False, documento:368294  None
+2019-04-25 15:32:38.028902 Retorno metodo isPago:False, documento:367853  None
+2019-04-25 15:32:38.344260 Retorno metodo isPago:False, documento:377799  None
+2019-04-25 15:32:38.652547 Retorno metodo isPago:False, documento:375787  None
+2019-04-25 15:32:38.959975 Retorno metodo isPago:False, documento:376654  None
+2019-04-25 15:32:39.270157 Retorno metodo isPago:False, documento:376874  None
+2019-04-25 15:32:39.579530 Retorno metodo isPago:False, documento:376858  None
+2019-04-25 15:32:39.895476 Retorno metodo isPago:False, documento:377043  None
+2019-04-25 15:32:40.232941 Retorno metodo isPago:False, documento:375864  None
+2019-04-25 15:32:40.547118 Retorno metodo isPago:False, documento:376920  None
+2019-04-25 15:32:40.867253 Retorno metodo isPago:False, documento:377373  None
+2019-04-25 15:32:41.184518 Retorno metodo isPago:False, documento:376107  None
+2019-04-25 15:32:41.517156 Retorno metodo isPago:False, documento:376496  None
+2019-04-25 15:32:41.849152 Retorno metodo isPago:False, documento:376491  None
+2019-04-25 15:32:42.157511 Retorno metodo isPago:False, documento:377003  None
+2019-04-25 15:32:42.487424 Retorno metodo isPago:False, documento:377724  None
+2019-04-25 15:32:42.811330 Retorno metodo isPago:False, documento:377703  None
+2019-04-25 15:32:43.123681 Retorno metodo isPago:False, documento:377109  None
+2019-04-25 15:32:43.439402 Retorno metodo isPago:False, documento:365966  None
+2019-04-25 15:32:43.755717 Retorno metodo isPago:False, documento:375955  None
+2019-04-25 15:32:44.067185 Retorno metodo isPago:False, documento:377394  None
+2019-04-25 15:32:44.374105 Retorno metodo isPago:False, documento:377395  None
+2019-04-25 15:32:44.681651 Retorno metodo isPago:False, documento:377233  None
+2019-04-25 15:32:44.999082 Retorno metodo isPago:False, documento:376947  None
+2019-04-25 15:32:45.307845 Retorno metodo isPago:False, documento:376964  None
+2019-04-25 15:32:45.624172 Retorno metodo isPago:False, documento:377269  None
+2019-04-25 15:32:45.933988 Retorno metodo isPago:False, documento:376769  None
+2019-04-25 15:32:46.252599 Retorno metodo isPago:False, documento:376615  None
+2019-04-25 15:32:46.571240 Retorno metodo isPago:False, documento:377609  None
+2019-04-25 15:32:46.888299 Retorno metodo isPago:False, documento:377567  None
+2019-04-25 15:32:47.196131 Retorno metodo isPago:False, documento:376800  None
+2019-04-25 15:32:47.513335 Retorno metodo isPago:False, documento:377463  None
+2019-04-25 15:32:47.822456 Retorno metodo isPago:False, documento:376421  None
+2019-04-25 15:32:48.126814 Retorno metodo isPago:False, documento:377466  None
+2019-04-25 15:32:48.434963 Retorno metodo isPago:False, documento:377604  None
+2019-04-25 15:32:48.741546 Retorno metodo isPago:False, documento:375993  None
+2019-04-25 15:32:49.062973 Retorno metodo isPago:False, documento:377515  None
+2019-04-25 15:32:49.380364 Retorno metodo isPago:False, documento:377517  None
+2019-04-25 15:32:49.688194 Retorno metodo isPago:False, documento:375646  None
+2019-04-25 15:32:49.998739 Retorno metodo isPago:False, documento:377497  None
+2019-04-25 15:32:50.306945 Retorno metodo isPago:False, documento:376972  None
+2019-04-25 15:32:50.616750 Retorno metodo isPago:False, documento:377142  None
+2019-04-25 15:32:50.935544 Retorno metodo isPago:False, documento:377405  None
+2019-04-25 15:32:51.251798 Retorno metodo isPago:False, documento:376410  None
+2019-04-25 15:32:51.569337 Retorno metodo isPago:False, documento:377804  None
+2019-04-25 15:32:51.890937 Retorno metodo isPago:False, documento:377149  None
+2019-04-25 15:32:52.185991 Retorno metodo isPago:False, documento:375608  None
+2019-04-25 15:32:52.504598 Retorno metodo isPago:False, documento:374584  None
+2019-04-25 15:32:52.813004 Retorno metodo isPago:False, documento:374728  None
+2019-04-25 15:32:53.131193 Retorno metodo isPago:False, documento:374653  None
+2019-04-25 15:32:53.458410 Retorno metodo isPago:False, documento:374264  None
+2019-04-25 15:32:53.772337 Retorno metodo isPago:False, documento:375477  None
+2019-04-25 15:32:54.088485 Retorno metodo isPago:False, documento:375202  None
+2019-04-25 15:32:54.397036 Retorno metodo isPago:False, documento:374867  None
+2019-04-25 15:32:54.706619 Retorno metodo isPago:False, documento:374948  None
+2019-04-25 15:32:55.024379 Retorno metodo isPago:False, documento:374612  None
+2019-04-25 15:32:55.341417 Retorno metodo isPago:False, documento:375395  None
+2019-04-25 15:32:55.654423 Retorno metodo isPago:False, documento:374794  None
+2019-04-25 15:32:55.660722 Consulta Finalizada
+2019-04-25 15:32:55.660743 Enviando email da consulta
+2019-04-25 15:32:56.098696 Email enviado
+2019-04-26 10:00:01.939997 Gerando consulta dos documentos do dia
+2019-04-26 10:00:02.257598 Retorno metodo isPago:True, documento:379406  2019-04-25 00:00:00
+2019-04-26 10:00:02.576921 Retorno metodo isPago:False, documento:379648  None
+2019-04-26 10:00:02.885644 Retorno metodo isPago:True, documento:380139  2019-04-25 00:00:00
+2019-04-26 10:00:03.205371 Retorno metodo isPago:False, documento:379264  None
+2019-04-26 10:00:03.516269 Retorno metodo isPago:False, documento:379683  None
+2019-04-26 10:00:03.843459 Retorno metodo isPago:False, documento:379682  None
+2019-04-26 10:00:04.158172 Retorno metodo isPago:False, documento:380060  None
+2019-04-26 10:00:04.477757 Retorno metodo isPago:False, documento:380132  None
+2019-04-26 10:00:04.790823 Retorno metodo isPago:True, documento:378590  2019-04-25 00:00:00
+2019-04-26 10:00:05.109859 Retorno metodo isPago:False, documento:380018  None
+2019-04-26 10:00:05.419111 Retorno metodo isPago:False, documento:379605  None
+2019-04-26 10:00:05.742120 Retorno metodo isPago:False, documento:379606  None
+2019-04-26 10:00:06.055777 Retorno metodo isPago:False, documento:378578  None
+2019-04-26 10:00:06.381938 Retorno metodo isPago:True, documento:380056  2019-04-25 00:00:00
+2019-04-26 10:00:06.692598 Retorno metodo isPago:False, documento:378558  None
+2019-04-26 10:00:07.011880 Retorno metodo isPago:True, documento:380047  2019-04-25 00:00:00
+2019-04-26 10:00:07.321289 Retorno metodo isPago:False, documento:380113  None
+2019-04-26 10:00:07.628431 Retorno metodo isPago:False, documento:380112  None
+2019-04-26 10:00:07.938235 Retorno metodo isPago:False, documento:380077  None
+2019-04-26 10:00:08.251344 Retorno metodo isPago:False, documento:379550  None
+2019-04-26 10:00:08.567758 Retorno metodo isPago:True, documento:379988  2019-04-24 00:00:00
+2019-04-26 10:00:08.877336 Retorno metodo isPago:True, documento:379131  2019-04-24 00:00:00
+2019-04-26 10:00:09.206737 Retorno metodo isPago:True, documento:379907  2019-04-25 00:00:00
+2019-04-26 10:00:09.515926 Retorno metodo isPago:True, documento:379222  2019-04-24 00:00:00
+2019-04-26 10:00:09.837451 Retorno metodo isPago:False, documento:379815  None
+2019-04-26 10:00:10.133516 Retorno metodo isPago:False, documento:379906  None
+2019-04-26 10:00:10.449394 Retorno metodo isPago:False, documento:379978  None
+2019-04-26 10:00:10.751790 Retorno metodo isPago:True, documento:380076  2019-04-25 00:00:00
+2019-04-26 10:00:11.073900 Retorno metodo isPago:True, documento:380075  2019-04-25 00:00:00
+2019-04-26 10:00:11.377124 Retorno metodo isPago:False, documento:379951  None
+2019-04-26 10:00:11.692761 Retorno metodo isPago:False, documento:379592  None
+2019-04-26 10:00:12.003128 Retorno metodo isPago:True, documento:380111  2019-04-25 00:00:00
+2019-04-26 10:00:12.328015 Retorno metodo isPago:True, documento:379411  2019-04-24 00:00:00
+2019-04-26 10:00:12.637062 Retorno metodo isPago:True, documento:380084  2019-04-25 00:00:00
+2019-04-26 10:00:12.936005 Retorno metodo isPago:False, documento:380156  None
+2019-04-26 10:00:13.232210 Retorno metodo isPago:False, documento:379039  None
+2019-04-26 10:00:13.528327 Retorno metodo isPago:False, documento:378662  None
+2019-04-26 10:00:13.844116 Retorno metodo isPago:False, documento:378654  None
+2019-04-26 10:00:14.138021 Retorno metodo isPago:False, documento:379843  None
+2019-04-26 10:00:14.457802 Retorno metodo isPago:False, documento:379847  None
+2019-04-26 10:00:14.761628 Retorno metodo isPago:False, documento:379477  None
+2019-04-26 10:00:15.057266 Retorno metodo isPago:True, documento:380034  2019-04-24 00:00:00
+2019-04-26 10:00:15.355124 Retorno metodo isPago:True, documento:379753  2019-04-25 00:00:00
+2019-04-26 10:00:15.667541 Retorno metodo isPago:False, documento:378631  None
+2019-04-26 10:00:15.969451 Retorno metodo isPago:False, documento:380149  None
+2019-04-26 10:00:16.266222 Retorno metodo isPago:False, documento:380028  None
+2019-04-26 10:00:16.567082 Retorno metodo isPago:False, documento:380031  None
+2019-04-26 10:00:16.867309 Retorno metodo isPago:True, documento:380115  2019-04-25 00:00:00
+2019-04-26 10:00:17.169219 Retorno metodo isPago:False, documento:379006  None
+2019-04-26 10:00:17.468925 Retorno metodo isPago:True, documento:378602  2019-04-25 00:00:00
+2019-04-26 10:00:17.789142 Retorno metodo isPago:False, documento:379705  None
+2019-04-26 10:00:18.084159 Retorno metodo isPago:False, documento:379839  None
+2019-04-26 10:00:18.411085 Retorno metodo isPago:True, documento:379612  2019-04-25 00:00:00
+2019-04-26 10:00:18.729629 Retorno metodo isPago:False, documento:380026  None
+2019-04-26 10:00:19.030167 Retorno metodo isPago:True, documento:379611  2019-04-25 00:00:00
+2019-04-26 10:00:19.351335 Retorno metodo isPago:False, documento:379750  None
+2019-04-26 10:00:19.647597 Retorno metodo isPago:False, documento:378993  None
+2019-04-26 10:00:19.946864 Retorno metodo isPago:False, documento:379613  None
+2019-04-26 10:00:20.244238 Retorno metodo isPago:False, documento:378854  None
+2019-04-26 10:00:20.573421 Retorno metodo isPago:False, documento:378978  None
+2019-04-26 10:00:20.877934 Retorno metodo isPago:False, documento:379302  None
+2019-04-26 10:00:21.192741 Retorno metodo isPago:False, documento:379826  None
+2019-04-26 10:00:21.506790 Retorno metodo isPago:False, documento:380019  None
+2019-04-26 10:00:21.802731 Retorno metodo isPago:False, documento:379239  None
+2019-04-26 10:00:22.117990 Retorno metodo isPago:False, documento:380040  None
+2019-04-26 10:00:22.430689 Retorno metodo isPago:True, documento:379423  2019-04-25 00:00:00
+2019-04-26 10:00:22.728851 Retorno metodo isPago:False, documento:379817  None
+2019-04-26 10:00:23.044791 Retorno metodo isPago:False, documento:379836  None
+2019-04-26 10:00:23.360920 Retorno metodo isPago:True, documento:378763  2019-04-24 00:00:00
+2019-04-26 10:00:23.670552 Retorno metodo isPago:True, documento:380061  2019-04-25 00:00:00
+2019-04-26 10:00:23.989699 Retorno metodo isPago:True, documento:380119  2019-04-25 00:00:00
+2019-04-26 10:00:24.287547 Retorno metodo isPago:False, documento:378767  None
+2019-04-26 10:00:24.602117 Retorno metodo isPago:True, documento:379443  2019-04-25 00:00:00
+2019-04-26 10:00:24.897258 Retorno metodo isPago:True, documento:380072  2019-04-24 00:00:00
+2019-04-26 10:00:25.191745 Retorno metodo isPago:True, documento:379446  2019-04-25 00:00:00
+2019-04-26 10:00:25.505856 Retorno metodo isPago:False, documento:379417  None
+2019-04-26 10:00:25.801923 Retorno metodo isPago:False, documento:379649  None
+2019-04-26 10:00:26.099329 Retorno metodo isPago:False, documento:379505  None
+2019-04-26 10:00:26.396917 Retorno metodo isPago:False, documento:379044  None
+2019-04-26 10:00:26.709604 Retorno metodo isPago:False, documento:378883  None
+2019-04-26 10:00:27.005847 Retorno metodo isPago:False, documento:379185  None
+2019-04-26 10:00:27.314470 Retorno metodo isPago:False, documento:379623  None
+2019-04-26 10:00:27.624224 Retorno metodo isPago:False, documento:378666  None
+2019-04-26 10:00:27.966451 Retorno metodo isPago:True, documento:379181  2019-04-24 00:00:00
+2019-04-26 10:00:28.267535 Retorno metodo isPago:False, documento:379759  None
+2019-04-26 10:00:28.571808 Retorno metodo isPago:False, documento:378675  None
+2019-04-26 10:00:28.878655 Retorno metodo isPago:True, documento:378668  2019-04-25 00:00:00
+2019-04-26 10:00:29.179826 Retorno metodo isPago:False, documento:379669  None
+2019-04-26 10:00:29.491707 Retorno metodo isPago:False, documento:379926  None
+2019-04-26 10:00:29.811600 Retorno metodo isPago:False, documento:379492  None
+2019-04-26 10:00:30.112182 Retorno metodo isPago:False, documento:379851  None
+2019-04-26 10:00:30.415475 Retorno metodo isPago:True, documento:379493  2019-04-24 00:00:00
+2019-04-26 10:00:30.721736 Retorno metodo isPago:True, documento:379717  2019-04-24 00:00:00
+2019-04-26 10:00:31.017523 Retorno metodo isPago:False, documento:379034  None
+2019-04-26 10:00:31.318319 Retorno metodo isPago:True, documento:379491  2019-04-25 00:00:00
+2019-04-26 10:00:31.625411 Retorno metodo isPago:False, documento:379667  None
+2019-04-26 10:00:31.942278 Retorno metodo isPago:False, documento:379024  None
+2019-04-26 10:00:32.260444 Retorno metodo isPago:True, documento:379803  2019-04-24 00:00:00
+2019-04-26 10:00:32.571856 Retorno metodo isPago:True, documento:378130  2019-04-25 00:00:00
+2019-04-26 10:00:32.869694 Retorno metodo isPago:True, documento:380161  2019-04-24 00:00:00
+2019-04-26 10:00:33.185151 Retorno metodo isPago:False, documento:379531  None
+2019-04-26 10:00:33.502767 Retorno metodo isPago:True, documento:379765  2019-04-24 00:00:00
+2019-04-26 10:00:33.813055 Retorno metodo isPago:False, documento:378699  None
+2019-04-26 10:00:34.143362 Retorno metodo isPago:False, documento:378698  None
+2019-04-26 10:00:34.440768 Retorno metodo isPago:False, documento:378900  None
+2019-04-26 10:00:34.743114 Retorno metodo isPago:False, documento:378690  None
+2019-04-26 10:00:35.047978 Retorno metodo isPago:False, documento:379258  None
+2019-04-26 10:00:35.370532 Retorno metodo isPago:False, documento:379079  None
+2019-04-26 10:00:35.678159 Retorno metodo isPago:False, documento:379065  None
+2019-04-26 10:00:36.002191 Retorno metodo isPago:False, documento:379871  None
+2019-04-26 10:00:36.312033 Retorno metodo isPago:True, documento:379509  2019-04-24 00:00:00
+2019-04-26 10:00:36.630474 Retorno metodo isPago:True, documento:380055  2019-04-24 00:00:00
+2019-04-26 10:00:36.934248 Retorno metodo isPago:True, documento:380128  2019-04-25 00:00:00
+2019-04-26 10:00:37.241875 Retorno metodo isPago:False, documento:379625  None
+2019-04-26 10:00:37.535643 Retorno metodo isPago:False, documento:378890  None
+2019-04-26 10:00:37.832010 Retorno metodo isPago:False, documento:379734  None
+2019-04-26 10:00:38.129057 Retorno metodo isPago:True, documento:379633  2019-04-24 00:00:00
+2019-04-26 10:00:38.422918 Retorno metodo isPago:True, documento:379721  2019-04-24 00:00:00
+2019-04-26 10:00:38.717174 Retorno metodo isPago:False, documento:378885  None
+2019-04-26 10:00:39.011747 Retorno metodo isPago:False, documento:379849  None
+2019-04-26 10:00:39.317067 Retorno metodo isPago:False, documento:380063  None
+2019-04-26 10:00:39.631661 Retorno metodo isPago:False, documento:378982  None
+2019-04-26 10:00:39.934148 Retorno metodo isPago:False, documento:379761  None
+2019-04-26 10:00:40.250669 Retorno metodo isPago:False, documento:379909  None
+2019-04-26 10:00:40.605075 Retorno metodo isPago:False, documento:379864  None
+2019-04-26 10:00:41.028206 Retorno metodo isPago:True, documento:379485  2019-04-24 00:00:00
+2019-04-26 10:00:41.340374 Retorno metodo isPago:False, documento:379885  None
+2019-04-26 10:00:41.647839 Retorno metodo isPago:True, documento:378919  2015-12-30 00:00:00
+2019-04-26 10:00:41.647884 Retorno metodo isPago:False, documento:378919  None
+2019-04-26 10:00:41.953711 Retorno metodo isPago:True, documento:379927  2019-04-24 00:00:00
+2019-04-26 10:00:42.248707 Retorno metodo isPago:False, documento:379889  None
+2019-04-26 10:00:42.572922 Retorno metodo isPago:True, documento:379639  2019-04-25 00:00:00
+2019-04-26 10:00:42.882750 Retorno metodo isPago:False, documento:379886  None
+2019-04-26 10:00:43.182598 Retorno metodo isPago:False, documento:378344  None
+2019-04-26 10:00:43.479871 Retorno metodo isPago:False, documento:379213  None
+2019-04-26 10:00:43.778620 Retorno metodo isPago:False, documento:379388  None
+2019-04-26 10:00:44.078143 Retorno metodo isPago:False, documento:379887  None
+2019-04-26 10:00:44.380063 Retorno metodo isPago:True, documento:378350  2019-04-24 00:00:00
+2019-04-26 10:00:44.678964 Retorno metodo isPago:False, documento:379538  None
+2019-04-26 10:00:44.977886 Retorno metodo isPago:False, documento:379913  None
+2019-04-26 10:00:45.276030 Retorno metodo isPago:True, documento:379914  2019-04-25 00:00:00
+2019-04-26 10:00:45.596980 Retorno metodo isPago:False, documento:379088  None
+2019-04-26 10:00:45.925519 Retorno metodo isPago:False, documento:379087  None
+2019-04-26 10:00:46.232012 Retorno metodo isPago:True, documento:379918  2019-04-25 00:00:00
+2019-04-26 10:00:46.550804 Retorno metodo isPago:False, documento:378726  None
+2019-04-26 10:00:46.871944 Retorno metodo isPago:True, documento:379920  2019-04-25 00:00:00
+2019-04-26 10:00:47.172387 Retorno metodo isPago:False, documento:379216  None
+2019-04-26 10:00:47.488165 Retorno metodo isPago:True, documento:379925  2019-04-25 00:00:00
+2019-04-26 10:00:47.791582 Retorno metodo isPago:False, documento:378929  None
+2019-04-26 10:00:48.091097 Retorno metodo isPago:False, documento:378928  None
+2019-04-26 10:00:48.388914 Retorno metodo isPago:False, documento:379933  None
+2019-04-26 10:00:48.692409 Retorno metodo isPago:True, documento:379673  2019-04-25 00:00:00
+2019-04-26 10:00:48.996941 Retorno metodo isPago:False, documento:378896  None
+2019-04-26 10:00:49.293775 Retorno metodo isPago:True, documento:379675  2019-04-25 00:00:00
+2019-04-26 10:00:49.617255 Retorno metodo isPago:False, documento:377950  None
+2019-04-26 10:00:49.923679 Retorno metodo isPago:False, documento:378095  None
+2019-04-26 10:00:50.270140 Retorno metodo isPago:False, documento:378160  None
+2019-04-26 10:00:50.591971 Retorno metodo isPago:True, documento:378405  2019-04-25 00:00:00
+2019-04-26 10:00:50.894697 Retorno metodo isPago:True, documento:378416  2019-04-25 00:00:00
+2019-04-26 10:00:51.213888 Retorno metodo isPago:False, documento:377911  None
+2019-04-26 10:00:51.525827 Retorno metodo isPago:False, documento:378469  None
+2019-04-26 10:00:51.820784 Retorno metodo isPago:False, documento:377955  None
+2019-04-26 10:00:52.118274 Retorno metodo isPago:False, documento:378238  None
+2019-04-26 10:00:52.426837 Retorno metodo isPago:False, documento:371437  None
+2019-04-26 10:00:52.741767 Retorno metodo isPago:False, documento:378354  None
+2019-04-26 10:00:53.063865 Retorno metodo isPago:False, documento:378471  None
+2019-04-26 10:00:53.377965 Retorno metodo isPago:False, documento:377883  None
+2019-04-26 10:00:53.696441 Retorno metodo isPago:False, documento:378321  None
+2019-04-26 10:00:54.009851 Retorno metodo isPago:False, documento:371477  None
+2019-04-26 10:00:54.303945 Retorno metodo isPago:False, documento:378148  None
+2019-04-26 10:00:54.608368 Retorno metodo isPago:False, documento:368294  None
+2019-04-26 10:00:54.919148 Retorno metodo isPago:False, documento:367853  None
+2019-04-26 10:00:55.221569 Retorno metodo isPago:False, documento:377799  None
+2019-04-26 10:00:55.517514 Retorno metodo isPago:False, documento:375787  None
+2019-04-26 10:00:55.824531 Retorno metodo isPago:False, documento:376654  None
+2019-04-26 10:00:56.123829 Retorno metodo isPago:False, documento:376874  None
+2019-04-26 10:00:56.420807 Retorno metodo isPago:False, documento:376858  None
+2019-04-26 10:00:56.721435 Retorno metodo isPago:False, documento:377043  None
+2019-04-26 10:00:57.026510 Retorno metodo isPago:False, documento:375864  None
+2019-04-26 10:00:57.325329 Retorno metodo isPago:False, documento:376920  None
+2019-04-26 10:00:57.643056 Retorno metodo isPago:False, documento:377373  None
+2019-04-26 10:00:57.967928 Retorno metodo isPago:False, documento:376107  None
+2019-04-26 10:00:58.305001 Retorno metodo isPago:False, documento:376496  None
+2019-04-26 10:00:58.626340 Retorno metodo isPago:False, documento:376491  None
+2019-04-26 10:00:58.941545 Retorno metodo isPago:True, documento:377003  2019-04-24 00:00:00
+2019-04-26 10:00:59.250418 Retorno metodo isPago:False, documento:377724  None
+2019-04-26 10:00:59.564782 Retorno metodo isPago:False, documento:377703  None
+2019-04-26 10:00:59.866034 Retorno metodo isPago:False, documento:377109  None
+2019-04-26 10:01:00.185390 Retorno metodo isPago:False, documento:365966  None
+2019-04-26 10:01:00.491082 Retorno metodo isPago:False, documento:375955  None
+2019-04-26 10:01:00.809693 Retorno metodo isPago:False, documento:377394  None
+2019-04-26 10:01:01.108620 Retorno metodo isPago:False, documento:377395  None
+2019-04-26 10:01:01.424959 Retorno metodo isPago:False, documento:377233  None
+2019-04-26 10:01:01.734738 Retorno metodo isPago:False, documento:376947  None
+2019-04-26 10:01:02.057491 Retorno metodo isPago:False, documento:376964  None
+2019-04-26 10:01:02.377661 Retorno metodo isPago:False, documento:377269  None
+2019-04-26 10:01:02.693480 Retorno metodo isPago:False, documento:376769  None
+2019-04-26 10:01:03.000580 Retorno metodo isPago:False, documento:376615  None
+2019-04-26 10:01:03.324653 Retorno metodo isPago:False, documento:377609  None
+2019-04-26 10:01:03.632531 Retorno metodo isPago:False, documento:377567  None
+2019-04-26 10:01:03.940436 Retorno metodo isPago:False, documento:376800  None
+2019-04-26 10:01:04.258815 Retorno metodo isPago:False, documento:377463  None
+2019-04-26 10:01:04.571630 Retorno metodo isPago:False, documento:376421  None
+2019-04-26 10:01:04.888180 Retorno metodo isPago:False, documento:377466  None
+2019-04-26 10:01:05.205400 Retorno metodo isPago:False, documento:377604  None
+2019-04-26 10:01:05.531186 Retorno metodo isPago:False, documento:375993  None
+2019-04-26 10:01:05.868416 Retorno metodo isPago:True, documento:377515  2019-04-25 00:00:00
+2019-04-26 10:01:06.178751 Retorno metodo isPago:False, documento:377517  None
+2019-04-26 10:01:06.507717 Retorno metodo isPago:False, documento:375646  None
+2019-04-26 10:01:06.825800 Retorno metodo isPago:False, documento:377497  None
+2019-04-26 10:01:07.144064 Retorno metodo isPago:False, documento:376972  None
+2019-04-26 10:01:07.455414 Retorno metodo isPago:False, documento:377142  None
+2019-04-26 10:01:07.774244 Retorno metodo isPago:False, documento:377405  None
+2019-04-26 10:01:08.093751 Retorno metodo isPago:False, documento:376410  None
+2019-04-26 10:01:08.427163 Retorno metodo isPago:False, documento:377804  None
+2019-04-26 10:01:08.738219 Retorno metodo isPago:False, documento:377149  None
+2019-04-26 10:01:09.058184 Retorno metodo isPago:False, documento:375608  None
+2019-04-26 10:01:09.376409 Retorno metodo isPago:False, documento:374584  None
+2019-04-26 10:01:09.687503 Retorno metodo isPago:True, documento:374728  2019-04-25 00:00:00
+2019-04-26 10:01:09.994744 Retorno metodo isPago:False, documento:374653  None
+2019-04-26 10:01:10.334988 Retorno metodo isPago:False, documento:374264  None
+2019-04-26 10:01:10.653050 Retorno metodo isPago:False, documento:375477  None
+2019-04-26 10:01:10.978016 Retorno metodo isPago:False, documento:375202  None
+2019-04-26 10:01:11.298890 Retorno metodo isPago:False, documento:374867  None
+2019-04-26 10:01:11.598179 Retorno metodo isPago:False, documento:374948  None
+2019-04-26 10:01:11.915126 Retorno metodo isPago:False, documento:374612  None
+2019-04-26 10:01:12.232292 Retorno metodo isPago:False, documento:375395  None
+2019-04-26 10:01:12.550752 Retorno metodo isPago:False, documento:374794  None
+2019-04-26 10:01:12.557106 Fazendo desbloqueio do codigo 21086244
+None
+2019-04-26 10:01:13.336025 Fazendo desbloqueio do codigo 21061460
+None
+2019-04-26 10:01:13.758080 Fazendo desbloqueio do codigo 21116398
+None
+2019-04-26 10:01:14.185974 Fazendo desbloqueio do codigo 21087911
+None
+2019-04-26 10:01:14.611952 Fazendo desbloqueio do codigo 21085857
+None
+2019-04-26 10:01:15.036063 Fazendo desbloqueio do codigo 21103862
+None
+2019-04-26 10:01:15.473947 Fazendo desbloqueio do codigo 21106056
+None
+2019-04-26 10:01:15.924014 Fazendo desbloqueio do codigo 21109316
+None
+2019-04-26 10:01:16.320042 Fazendo desbloqueio do codigo 21093683
+None
+2019-04-26 10:01:16.719888 Fazendo desbloqueio do codigo 21098005
+None
+2019-04-26 10:01:17.153959 Fazendo desbloqueio do codigo 21098005
+None
+2019-04-26 10:01:17.649921 Fazendo desbloqueio do codigo 21089213
+None
+2019-04-26 10:01:18.072027 Fazendo desbloqueio do codigo 21090708
+None
+2019-04-26 10:01:18.475894 Fazendo desbloqueio do codigo 21071353
+None
+2019-04-26 10:01:18.909913 Fazendo desbloqueio do codigo 21125638
+None
+2019-04-26 10:01:19.329817 Fazendo desbloqueio do codigo 21126172
+None
+2019-04-26 10:01:19.820919 Fazendo desbloqueio do codigo 21124865
+None
+2019-04-26 10:01:20.230979 Fazendo desbloqueio do codigo 21121516
+None
+2019-04-26 10:01:20.642897 Fazendo desbloqueio do codigo 21123375
+None
+2019-04-26 10:01:21.376959 Fazendo desbloqueio do codigo 21122716
+None
+2019-04-26 10:01:21.860919 Fazendo desbloqueio do codigo 21097906
+None
+2019-04-26 10:01:22.274902 Fazendo desbloqueio do codigo 21085346
+None
+2019-04-26 10:01:22.666874 Fazendo desbloqueio do codigo 21074641
+None
+2019-04-26 10:01:23.070922 Fazendo desbloqueio do codigo 21078226
+None
+2019-04-26 10:01:23.508890 Fazendo desbloqueio do codigo 21107548
+None
+2019-04-26 10:01:23.900928 Fazendo desbloqueio do codigo 21089619
+None
+2019-04-26 10:01:24.308920 Fazendo desbloqueio do codigo 21108283
+None
+2019-04-26 10:01:24.733980 Fazendo desbloqueio do codigo 21133849
+None
+2019-04-26 10:01:25.125876 Fazendo desbloqueio do codigo 21133912
+None
+2019-04-26 10:01:25.529990 Fazendo desbloqueio do codigo 21132473
+None
+2019-04-26 10:01:25.901876 Fazendo desbloqueio do codigo 21131857
+None
+2019-04-26 10:01:26.306012 Fazendo desbloqueio do codigo 21131702
+None
+2019-04-26 10:01:26.688853 Fazendo desbloqueio do codigo 21138742
+None
+2019-04-26 10:01:27.071869 Fazendo desbloqueio do codigo 21138753
+None
+2019-04-26 10:01:27.513915 Fazendo desbloqueio do codigo 21136907
+None
+2019-04-26 10:01:27.925885 Fazendo desbloqueio do codigo 21138124
+None
+2019-04-26 10:01:28.431901 Fazendo desbloqueio do codigo 21135667
+None
+2019-04-26 10:01:28.874838 Fazendo desbloqueio do codigo 21082687
+None
+2019-04-26 10:01:29.303861 Fazendo desbloqueio do codigo 21084651
+None
+2019-04-26 10:01:29.716831 Fazendo desbloqueio do codigo 21138705
+None
+2019-04-26 10:01:30.212958 Fazendo desbloqueio do codigo 21134493
+None
+2019-04-26 10:01:30.612852 Fazendo desbloqueio do codigo 21130204
+None
+2019-04-26 10:01:31.008857 Fazendo desbloqueio do codigo 21140475
+None
+2019-04-26 10:01:31.413843 Fazendo desbloqueio do codigo 21139809
+None
+2019-04-26 10:01:31.792871 Fazendo desbloqueio do codigo 21140932
+None
+2019-04-26 10:01:32.171875 Fazendo desbloqueio do codigo 21141022
+None
+2019-04-26 10:01:32.592883 Fazendo desbloqueio do codigo 21141031
+None
+2019-04-26 10:01:33.009877 Fazendo desbloqueio do codigo 21141037
+None
+2019-04-26 10:01:33.417867 Fazendo desbloqueio do codigo 21141044
+None
+2019-04-26 10:01:33.797909 Fazendo desbloqueio do codigo 21138454
+None
+2019-04-26 10:01:34.209904 Fazendo desbloqueio do codigo 21139017
+None
+2019-04-26 10:01:34.602186 Fazendo desbloqueio do codigo 21074641
+None
+2019-04-26 10:01:34.993884 Fazendo desbloqueio do codigo 21098382
+None
+2019-04-26 10:01:35.389838 Fazendo desbloqueio do codigo 21140377
+None
+2019-04-26 10:01:35.781821 Fazendo desbloqueio do codigo 21115840
+None
+2019-04-26 10:01:36.180088 Consulta Finalizada
+2019-04-26 10:01:36.180112 Enviando email da consulta
+2019-04-26 10:01:36.536827 Email enviado
+2019-04-26 10:15:01.672739 Enviando a lista final de documentos em aberto
+2019-04-26 10:15:02.187100Email enviado
+2019-04-26 10:30:01.908574 Gerando lista de documentos em abertos da semana-201918/

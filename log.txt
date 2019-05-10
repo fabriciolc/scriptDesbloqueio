@@ -11931,3 +11931,11 @@ None
 2019-05-03 10:00:01.447612 Gerando consulta dos documentos do dia
 2019-05-03 10:15:01.461728 Enviando a lista final de documentos em aberto
 2019-05-03 10:15:01.984670Email enviado
+2019-05-04 10:00:01.446200 O direitorio da semana nem existe, semana-201918/ rodar metodo firstList
+2019-05-06 10:00:01.151291 O direitorio da semana nem existe, semana-201919/ rodar metodo firstList
+2019-05-07 10:00:01.475355 O direitorio da semana nem existe, semana-201919/ rodar metodo firstList
+2019-05-08 10:00:01.992523 O direitorio da semana nem existe, semana-201919/ rodar metodo firstList
+2019-05-09 10:00:01.495433 O direitorio da semana nem existe, semana-201919/ rodar metodo firstList
+2019-05-10 10:00:01.336436 O direitorio da semana nem existe, semana-201919/ rodar metodo firstList
+2019-05-10 10:15:01.327200 Enviando a lista final de documentos em aberto
+2019-05-10 10:30:02.047455 Gerando lista de documentos em abertos da semana-201920/

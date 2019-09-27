@@ -48,7 +48,9 @@ def sendemail(subj,bdy,diretorio,filename):
 
     # Log in to server using secure context and send email
     server = smtplib.SMTP(server_smtp,port_smtp)
-    server.login(sender_email, password)
+    server.ehlo()
+    server.starttls()
+    server.login(sender_email,password)
     server.sendmail(sender_email, receiver_email, text)
 
 def sendFirtList(diretorio,filename):

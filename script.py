@@ -9,7 +9,8 @@ import SqlQuery,SendEmail
 
 
 
-___diretorioSem = "semana-"+datetime.datetime.now().strftime("%Y%V")+'/'
+#___diretorioSem = "semana-"+datetime.datetime.now().strftime("%Y%V")+'/'
+___diretorioSem = "semana-"+datetime.datetime.now().strftime("%Y")+str(int(datetime.datetime.now().strftime("%V")))+'/'
 ___diretorioSemList = "semana-"+datetime.datetime.now().strftime("%Y")+str(int(datetime.datetime.now().strftime("%V"))+1)+'/'
 ___arquivoListSeman = "ListSemana"+str(int(datetime.datetime.now().strftime("%V"))+1)+".csv"
 ___arquivoListSemanL = "ListSemana"+str(int(datetime.datetime.now().strftime("%V")))+".csv"

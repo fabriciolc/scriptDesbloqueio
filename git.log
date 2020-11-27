@@ -1466,3 +1466,25 @@ After doing this, you may fix the identity used for this commit with:
  rewrite semana-202040/ListSemana40.csv (84%)
  create mode 100644 semana-202041/ListSemana41.csv
  create mode 100644 semana-202041/ListSemana41.csv.bkp
+[master c9cd630] Atualizacao da semana
+ Committer: root <root@debianservo02.inspiracao.adm.br>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 10 files changed, 1717 insertions(+), 220 deletions(-)
+ create mode 100644 semana-202041/DesbloqueioSemana2020-10-03.csv
+ create mode 100644 semana-202041/DesbloqueioSemana2020-10-05.csv
+ create mode 100644 semana-202041/DesbloqueioSemana2020-10-06.csv
+ create mode 100644 semana-202041/DesbloqueioSemana2020-10-07.csv
+ create mode 100644 semana-202041/DesbloqueioSemana2020-10-08.csv
+ create mode 100644 semana-202042/ListSemana42.csv
+ create mode 100644 semana-202042/ListSemana42.csv.bkp
